@@ -2,8 +2,6 @@ site_name: Dr Crow Info
 theme:
   name: material 
   features:
-    - navigation.instant
-    - navigation.top
     - toc.integrate
     - search
     - search.suggest
@@ -22,6 +20,14 @@ theme:
         name: Switch to light mode    
       primary: darkblue
       accent: lime
+
+nav:
+   - Home:'index.md'
+   - 'Paediatrics': 
+     - 'Cystic Fibrosis': 'cystic_fibrosis.md'
+     - 'Precocious Puberty': 'paed_endo_precociousPuberty.md'
+     - 'Abdomen': 'paediatrics/paed_abdomen.md'
+   - 'Another': 'anotherpage.md'
 
 plugins:
   - social
