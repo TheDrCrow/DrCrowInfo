@@ -6,6 +6,9 @@ theme:
     - search
     - search.suggest
     - search.highlight
+    - table
+  markdown_extensions:
+    - footnotes
   language: en
   palette:
     - scheme: default
@@ -24,9 +27,84 @@ theme:
 nav:
    - Home:'index.md'
    - 'Paediatrics': 
-     - 'Cystic Fibrosis': 'cystic_fibrosis.md'
-     - 'Precocious Puberty': 'paed_endo_precociousPuberty.md'
+     - 'Lines and Stuff': 'paediatrics/paed_lines_and_stuff.md'
+     - 'Follow Up': 'paediatrics/paed_follow_up.md'
+     - 'Neck Lumps': 'paediatrics/paed_lump_neck.md'
+     - 'Cystic Fibrosis': 'paediatrics/paed_cystic_fibrosis.md'
      - 'Abdomen': 'paediatrics/paed_abdomen.md'
+     - 'Precocious Puberty': 'paediatrics/paed_endo_precociousPuberty.md'
+     - 'Gynae': 'paediatrics/paed_gynae_FF.md'
+     - 'Urology': 'paediatrics/paed_uro.md'
+     - 'Hips': 'paediatrics/paed_ortho_hips.md'
+     - 'Feet': 'paediatrics/paed_ortho_feet.md'
+   - 'Paediatric Neuroradiology': 
+     - 'Anatomy': 'paed_neuro/neuro_paed_anatomy.md'
+     - 'Development': 'paed_neuro/neuro_paed_development.md'
+     - 'Supratentorial Malformations': 'paed_neuro/neuro_paed_supratent_malform.md'
+     - 'Epilepsy': 'paed_neuro/neuro_paed_epilepsy.md'
+     - 'Tumours': 'paed_neuro/neuro_paed_brain_tumours.md'
+     - 'Pit & Pineal': 'paed_neuro/neuro_paed_Pit_Pineal.md'
+     - 'Neurofibromatosis': 'paed_neuro/neuro_paed_neurofibromatosis.md'
+     - 'Neck Lumps': 'paed_neuro/paed_neck_lumps.md'
+     - 'Scoliosis': ''
+   - 'Neuroradiology':
+     - 'Confusion': 'neuro/neuro_Confusion_CT^.md'
+     - 'Guillan-Barre Syndrome': 'neuro/neuro_GBS.md'
+     - 'HI & AntiCoag': 'neuro/neuro_headinjury&AntiCoag.md'
+     - 'SAH': 'neuro/neuro_SAH_FF.md'
+   - 'Head & Neck':
+     - 'Facial Trauma': 'head_neck/h&n_facial_trauma.md'
+     - 'FESS': 'head_neck/h&n_FESS_FF.md'
+     - 'FESS Template': 'head_neck/h&n_FESS_Report_Template.md'
+     - 'Sinonasal Staging': 'head_neck/h&n_Nasal_Sinus_Staging.md'
+     - 'Oropharyngeal Staging': 'head_neck/h&n_Oral_Pharynx_Staging.md'
+     - 'Thyroid Cancer': 'head_neck/h&n_thyroid_cancer.md'
+   - 'Chest':
+     - 'ILD': 'chest/chest_ILD_CTD.md'
+     - 'Lung as Filter': 'chest/chest_lungFilter^.md'
+     - 'Nodules': 'chest/chest_lungNodules.md'
+     - 'PE': 'chest/chest_PE_clinicalLRs^.md'
+     - 'Peripheral Angio': 'chest/chest_peripheralAngio_FF.md'
+     - 'Pleural Effusion': 'chest/chest_pleural_effusion.md'
+   - 'Abdomen':
+     - 'HCC': 'abdominal/git_HCC.md'
+     - 'Colitis': 'abdominal/git_colitis.md'
+     - 'Inguinal Hernia': 'abdominal/git_inguinalHernias.md'
+   - 'Genito-Urinary':
+     - 'CTU & KUB': 'genito-urinary/gu_CTU&KUB_FF.md'
+     - 'Renal Cysts': 'genito-urinary/gu_renal_cystic_masses.md'
+     - 'Ectopic Preg': 'genito-urinary/gu_ectopicPreg.md'
+     - 'Endometriosis': 'genito-urinary/gu_endometriosis.md'
+     - 'Ovarian Carcinoma': 'genito-urinary/gu_ovarian_Carcinoma.md'
+     - 'Prostate Carcinoma': 'genito-urinary/gu_prostateCa_fu.md'
+   - 'MSK':
+     - 'Ankle': 'msk/msk_ankle.md'
+     - 'Radial Neck': 'msk/msk_fracture_radialneck.md'
+     - 'Knee': 'msk/msk_knee_ff.md'
+     - 'Knee PostOp': 'msk/msk_knee_postop.md'
+     - 'Shoulder': 'msk/msk_shoulder.md'
+     - 'CES': 'msk/msk_ces.md'
+     - 'SPAR': 'msk/msk_SPAR.md'
+     - 'Spine Instability': 'msk/msk_spine_instability.md'
+     - 'Spine Trauma': 'msk/msk_spine_trauma.md'
+     - 'Spine Degen': 'msk/msk_spinedegen_FF.md'
+     - 'Spine Stenosis': ''
+     - 'Trauma': 'msk/trauma.md'
+   - 'Onco': 
+     - 'AML CT': 'onco/onco_AML_CT.md' 
+     - 'Lymphoma': 'onco/onco_lymphoma.md' 
+     - 'Myeloma': 'onco/onco_myeloma_FF.md' 
+     - 'Melanoma': 'onco/onco_melanoma_NICE.md' 
+     - 'Rectal MR': 'onco/onco_rectalMR_FF.md' 
+     - 'Brain Mets': 'onco/onco_brain_mets.md' 
+     - 'Nodes': 'onco/onco_nodes.md' 
+     - 'MSCC': 'onco/onco_mscc.md' 
+     - 'Neutropenic Sepsis': 'onco/onco_neutropenic_sepsis.md' 
+     - 'Paraneoplastic Syndromes': 'onco/onco_paraneoplastic.md' 
+   - 'General': 
+     - 'Confusion': 'general/general_confusion_ix.md'
+     - 'Malignancy': 'general/general_malignancy.md'
+     - 'Nightsweats': 'general/general_nightsweats.md'
    - 'Another': 'anotherpage.md'
 
 plugins:

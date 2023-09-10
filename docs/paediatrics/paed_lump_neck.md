@@ -8,13 +8,13 @@ Question: Is the lump a lymph node(s)?
 
 ### If the lump is a lymph node. 
 
-Consider: 
-1. Palpable lymph nodes are normal. [^Alves_Rosa2021] [^Paddock2020]
-1. Persistent normal nodes are normal in children. [^Meadows2020]
-1. Lymph nodes varying in size is normal.
-1. US is of limited utility in differentiating the different causes of lymphadenopathy.[^Paddock2020]
-1. If there are features suggestive of a lymphoma then please refer as per [NICE NG12](https://www.nice.org.uk/guidance/ng12/chapter/recommendations-organised-by-symptom-and-findings-of-primary-care-investigations#symptoms-in-children-and-young-people)
-1. If the concern is leukaemia or other malignancy then please refer as per [NICE NG12](https://www.nice.org.uk/guidance/ng12/chapter/recommendations-organised-by-symptom-and-findings-of-primary-care-investigations#symptoms-in-children-and-young-people).
+Consider:   
+ 1. Palpable lymph nodes are normal. [^Alves_Rosa2021] [^Paddock2020]  
+ 2. Persistent normal nodes are normal in children. [^Meadows2020]  
+ 3. Lymph nodes varying in size is normal.  
+ 4. US is of limited utility in differentiating the different causes of lymphadenopathy.[^Paddock2020]  
+ 5. If there are features suggestive of a lymphoma then please refer as per [NICE NG12](https://www.nice.org.uk/guidance/ng12/chapter/recommendations-organised-by-symptom-and-findings-of-primary-care-investigations#symptoms-in-children-and-young-people)  
+ 6. If the concern is leukaemia or other malignancy then please refer as per [NICE NG12](https://www.nice.org.uk/guidance/ng12/chapter/recommendations-organised-by-symptom-and-findings-of-primary-care-investigations#symptoms-in-children-and-young-people).  
 
 If still wanting to refer then just guide to a non-ordered input.  
 

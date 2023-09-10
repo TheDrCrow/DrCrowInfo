@@ -1,4 +1,12 @@
-# Welcome to MkDocs
+# Dr Crow Info 
+
+##### The pastebin for all Radiological nonsense
+
+## Built using MKDocs
+### With Material theming.
+#### And hosted on GitHub Pages with CI via Actions.
+
+--- 
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 

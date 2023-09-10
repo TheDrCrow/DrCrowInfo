@@ -18,10 +18,10 @@ Major findings include:
   
 Need >=3 Major or 2 Major and 1 Minor. 
 
-**Surveillance** 
-- aFP every 2-3 months til 4 for hepatoblastoma
-- US abdomen every 3-4 months til age 8y for tumour surveillance and renal abnormalities. 
-- ***Abd US annually from 8 to mid adolescence for renal abnormalities***.
+**Surveillance**   
+- aFP every 2-3 months til 4 for hepatoblastoma  
+- US abdomen every 3-4 months til age 8y for tumour surveillance and renal abnormalities.   
+- ***Abd US annually from 8 to mid adolescence for renal abnormalities***.  
 
 **BUT** [**Great Ormond Street Guidance (2017)**](https://www.gosh.nhs.uk/conditions-and-treatments/conditions-we-treat/beckwith-wiedemann-syndrome-bws/)
 
