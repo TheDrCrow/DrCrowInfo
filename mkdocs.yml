@@ -1,6 +1,6 @@
 site_name: Dr Crow Info
-theme:
-  name: material 
+theme: 
+  name: material
   custom_dir: overrides
   icon:  
     logo: fontawesome/solid/crow
