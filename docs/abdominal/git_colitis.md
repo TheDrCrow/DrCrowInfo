@@ -3,7 +3,7 @@
 1. [Colitis](#colitis)
 	1. [Acute Colitis](#acute-colitis)
 		1. [Guidance](#guidance)
-			1. [NICE: Ulcerative colitis: NG130. 2019 [^1]](#nice-ulcerative-colitis-ng130-2019-1)
+			1. [NICE: Ulcerative colitis: NG130. 2019 [^1](#nice-ulcerative-colitis-ng130-2019-1)
 	2. [Chronic Colitis](#chronic-colitis)
 
 ## Acute Colitis 
@@ -25,10 +25,10 @@ The multidisciplinary team.
 1.2.22 Assess and document on admission, and then daily, the likelihood of needing surgery for people admitted to hospital with acute severe ulcerative colitis. [2013]  
 
 1.2.23 Be aware that there may be an increased likelihood of needing surgery for people with any of the following:  
--	stool frequency more than 8 per day
--	pyrexia
--	tachycardia
--	an abdominal X‑ray showing colonic dilatation
+-	stool frequency more than 8 per day  
+-	pyrexia  
+-	tachycardia  
+-	an abdominal X‑ray showing colonic dilatation  
 -	low albumin, low haemoglobin, high platelet count or C‑reactive protein above 45 mg/litre (bear in mind that normal values may be different in pregnant women). [2013]
 
 **NB**: No mention of CT. Only mention of AXR. 
