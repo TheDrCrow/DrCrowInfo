@@ -4,7 +4,7 @@ theme:
   custom_dir: overrides
   icon:  
     logo: fontawesome/solid/crow
-  favicon: images/crow-solid.svg
+  favicon: images/favicon_grey.png
   features:
     - toc.integrate
     - search
