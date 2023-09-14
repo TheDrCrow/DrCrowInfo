@@ -124,5 +124,8 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/TheDrCrow
+      link: https://github.com/TheDrCrow'
+
+extra_css: 
+  - stylesheets/extra.css
 
