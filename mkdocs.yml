@@ -11,6 +11,7 @@ theme:
     - search.suggest
     - search.highlight
     - table
+    - footnotes
   markdown_extensions:
     - pymdownx.superfences:
       custom_fences:
