@@ -12,14 +12,6 @@ theme:
     - search.highlight
     - table
     - footnotes
-  markdown_extensions:
-    - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
-    - footnotes
-    - pymdownx.caret
   language: en
   palette:
     - scheme: default
@@ -34,7 +26,6 @@ theme:
         name: Switch to light mode    
       primary: darkblue
       accent: lime
-
 nav:
    - Home:'index.md'
    - 'Paediatrics': 
@@ -117,15 +108,20 @@ nav:
      - 'Malignancy': 'general/general_malignancy.md'
      - 'Nightsweats': 'general/general_nightsweats.md'
    - 'Another': 'anotherpage.md'
-
+markdown_extensions:
+  - pymdownx.superfences:
+    custom_fences:
+      - name: mermaid
+        class: mermaid
+        format: !!python/name:pymdownx.superfences.fence_code_format
+  - footnotes
+  - pymdownx.caret
 plugins:
   - social
-
 extra:
   social:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/TheDrCrow'
-
 extra_css: 
   - stylesheets/extra.css
 
