@@ -118,6 +118,7 @@ markdown_extensions:
   - pymdownx.caret
 plugins:
   - social
+  - typeset
 extra:
   social:
     - icon: fontawesome/brands/github-alt
