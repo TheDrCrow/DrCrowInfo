@@ -109,16 +109,9 @@ nav:
      - 'Nightsweats': 'general/general_nightsweats.md'
    - 'Another': 'anotherpage.md'
 markdown_extensions:
-  - pymdownx.superfences:
-    custom_fences:
-      - name: mermaid
-        class: mermaid
-        format: !!python/name:pymdownx.superfences.fence_code_format
   - footnotes
-  - pymdownx.caret
 plugins:
   - social
-  - typeset
 extra:
   social:
     - icon: fontawesome/brands/github-alt

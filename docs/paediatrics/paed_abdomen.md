@@ -1,8 +1,8 @@
 # Paediatric Abdominal Stuff.
 
-### Liver Size 
+### Liver Size [^Beek1998]
 
-Via *Diagnostic Pediatric Ultrasound* Beek A & van Rijn RR. = Normal Liver, spleen, kidney dimensions in neonates, infants & children. Konus OL, Ozdeimer A, Akkaya A et al. AJR 1998; 171(6):1693-1698.  
+[^Beek1998]: Normal Liver, spleen, kidney dimensions in neonates, infants & children. Konus OL, Ozdeimer A, Akkaya A et al. AJR 1998; 171(6):1693-1698.  in Diagnostic Pediatric Ultrasound, Beek A & van Rijn RR.
 
 NB: Each of the categories is based on 16 to 53 samples only. Done in Turkey.
 
@@ -27,7 +27,8 @@ Measured the orthogonal z-axis if top level was the highest point of the diaphra
 
 ### Spleen Size 
 
-Via Radiopaedia. = Normal Splenic size in Infants & Children.Rosenberg HK AJR 1991;157(1):119-121
+Via Radiopaedia. = Normal Splenic size in Infants & Children.[^Rosenberg1991] 
+[^Rosenberg1991]: Rosenberg HK AJR 1991;157(1):119-121
 
 *AGE* | *UPPER LIMIT OF NORMAL*
 :---|:---

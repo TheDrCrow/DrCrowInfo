@@ -1,12 +1,4 @@
 # Cystic Fibrosis 
-. [Cystic Fibrosis](#cystic-fibrosis)
-	1. [Guidelines = NICE NG78 2017 [^1]](#guidelines--nice-ng78-2017-1)
-		1. [1.5 Annual and routine reviews](#15-annual-and-routine-reviews)
-		2. [1.7 Other monitoring, assessment and management.](#17-other-monitoring-assessment-and-management)
-			1. [Distal Intestinal Obstruction Syndrome (DIOS)](#distal-intestinal-obstruction-syndrome-dios)
-			2. [Liver Disease](#liver-disease)
-		3. [BUT](#but)
-			1. [We are in the RBH/Kings/Bton Sphere of Influence](#we-are-in-the-rbhkingsbton-sphere-of-influence)
 
 ## Guidelines = NICE NG78 2017 [^1]
 
