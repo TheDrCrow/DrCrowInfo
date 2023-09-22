@@ -28,4 +28,16 @@ If still wanting to refer then just guide to a non-ordered input.
 
 Use the usual non-ordered inputs.
 
-> Might in further sections on midline masses and on thyroid if this becomes problematic. 
+--- 
+ 
+## What is a Normal node in a child?[^Alves_Rosa2021]
+
+![Normal Neck Nodes in Children](images/normal_neck_nodes.png)
+
+Based on Cor T2 of 200 children having MR for other reasons, mostly headache.  
+Largest nodes in each station were assessed *only on the coronal scans - thus not a proper SAD*. 
+
+Results:   
+ - 4% of population had measurable superficial cervical nodes. Mean SAD = 5mm, Max = 9mm.  
+ - Even occipital nodes were mean SAD = 3 to 4mm.   
+ - For most 'deep' nodal stations the **Mean SAD** was 10-12mm !! With the largest nodes being in 3-5y olds. 
