@@ -1,23 +1,5 @@
 # Hips in Children.
 
-## Table of Contents
-1. [Hips in Children.](#hips-in-children)
-   1. [Table of Contents](#table-of-contents)
-   2. [**Anatomy, Procedure & Technical**](#anatomy-procedure--technical)
-   3. [**DDH**](#ddh)
-      1. [Guidelines: NIPE 2020. [^HMG2020]](#guidelines-nipe-2020-hmg2020)
-         1. [__Indications__](#indications)
-      2. [DDH Radiology = Graf [^2]](#ddh-radiology--graf-2)
-   4. [**Irritable Hip**](#irritable-hip)
-      1. [Kocher Criteria.[^3]](#kocher-criteria3)
-   5. [References](#references)
-   
----
-
-## **Anatomy, Procedure & Technical**
-
----
-
 ## **DDH**
 
 ### Guidelines: NIPE 2020. [^HMG2020] 
@@ -70,19 +52,21 @@ Graf Type | Alpha | Beta | Notes
 ## **Irritable Hip** 
 
 ### Kocher Criteria.[^3]
-Criteria are:
-  1. Non Weight Bearing 
-  2. Temp >38.5 
-  3. ESR > 40 [ or 2006 = CRP>20 ]
-  4. WCC > 12000
+
+Criteria are:  
+  1. Non Weight Bearing  
+  2. Temp >38.5   
+  3. ESR > 40 [ or 2006 = CRP>20 ]  
+  4. WCC > 12000  
 > Each criterion counts as 1 point.
 
-Scores are:
-  - 0 = Very low risk. Observation.
-  - 1 = 3% probability of septic arthritis. Consult.
-  - 2 = 40% probability of septic arthritis. Aspirate (if effusion)
-  - 3 = 93% probabiltiy of septic arthritis. Aspirate in Theatre / Washout.
-  - 4 = 99% probabiltiy of septic arthritis. Aspirate in Theatre / Washout.
+
+Scores are:  
+  - 0 = Very low risk. Observation.  
+  - 1 = 3% probability of septic arthritis. Consult.  
+  - 2 = 40% probability of septic arthritis. Aspirate (if effusion)  
+  - 3 = 93% probabiltiy of septic arthritis. Aspirate in Theatre / Washout.    
+  - 4 = 99% probabiltiy of septic arthritis. Aspirate in Theatre / Washout.  
 
 [^3]: https://pubmed.ncbi.nlm.nih.gov/10608376/ 
 

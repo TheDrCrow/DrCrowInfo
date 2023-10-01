@@ -12,7 +12,7 @@
 
 ### Neuro Issues.
 	1. Developmental cognitive Issues and Delay.
-	2. Some behaviourl issues. 
+	2. Some behavioural issues. 
 	3. MRI changes are subtle: 
    	1. Smaller brain volume especially in:	
       	1. Cortical grey Matter

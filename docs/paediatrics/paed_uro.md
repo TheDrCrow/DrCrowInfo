@@ -1,43 +1,6 @@
-### [EBR](/EBR/README.md)
-
 # Paediatric Urology.
+
 ## The guidelines for the usual presentations.   
-1. [Paediatric Urology.](#paediatric-urology)
-	1. [The guidelines for the usual presentations.](#the-guidelines-for-the-usual-presentations)
-		1. [The 2022 EAU Guidelines are available here](#the-2022-eau-guidelines-are-available-here)
-		2. [Cryptorchidism \[^Uroweb2021\]](#cryptorchidism-uroweb2021)
-			1. [Classification \& Phrases](#classification--phrases)
-			2. [Investigation.](#investigation)
-			3. [Managment.](#managment)
-		3. [Testicular Microlithiasis.](#testicular-microlithiasis)
-			1. [Diagnosis](#diagnosis)
-			2. [Management](#management)
-		4. [Scrotal Swelling / Hydrocele / Hernia. \[^Uroweb2021\]](#scrotal-swelling--hydrocele--hernia-uroweb2021)
-			1. [Diagnosis.](#diagnosis-1)
-			2. [Treatment.](#treatment)
-		5. [Varicocele in Children](#varicocele-in-children)
-			1. [Imaging](#imaging)
-			2. [Treatment](#treatment-1)
-		6. [Antenatal Hydronephrosis. \[^UTD2014\]](#antenatal-hydronephrosis-utd2014)
-			1. [Postnatal.](#postnatal)
-				1. [Management.](#management-1)
-		7. [UTI *NICE* \[^NICE2018\] \[^NICE2022\]](#uti-nice-nice2018-nice2022)
-				1. [Atypical UTI](#atypical-uti)
-				2. [Recurrent UTI](#recurrent-uti)
-			1. [Infants \< 6 months old](#infants--6-months-old)
-			2. [Infants and Children 6 Months to 3 years old.](#infants-and-children-6-months-to-3-years-old)
-			3. [Children \> 3years old.](#children--3years-old)
-			4. [Also in the Guidance.](#also-in-the-guidance)
-		8. [Vesicoureteric Reflux.](#vesicoureteric-reflux)
-		9. [ADPKD](#adpkd)
-			1. [Ultrasound Criteria = *Pei-Ravine* Criteria. \[^Pei2009\]](#ultrasound-criteria--pei-ravine-criteria-pei2009)
-		10. [Lower Urinary Tract Symptoms \[^Dynamed2022\] \[^PIER2021\] \[^NICE2010\] \[^Fuentes2019\]](#lower-urinary-tract-symptoms-dynamed2022-pier2021-nice2010-fuentes2019)
-			 1. [__**Definitions**__ ( International Children's Continence Society (ICCS) Document )](#definitions--international-childrens-continence-society-iccs-document-)
-			 2. [__**Guidance**__](#guidance)
-
-
-
---- 
 
 ### The 2022 EAU Guidelines are available [here](../CrowNEST/../../CrowNEST/Papers/EAU_Paed_Uro_2022.pdf)
 
@@ -154,7 +117,7 @@ Defined both 'A' = antenatal findings and management *and*
 
 | Risk Level              | APRPD         | Calyceal Dilatation         | Parenchyma                            | Ureters      | Bladder      |
 | :---------------------- | :------------ | :-------------------------- | :------------------------------------ | :----------- | :----------- |
-| LOW = 'UTD P1'          | **10- <15mm** | **Central only**.           | Normal Thickness & Appearance.        | Normal       | Normal       |
+| LOW = 'UTD P1'          | **10- <15mm** | **Central only**.           | Normal Thickness & Appearance.        | Normal   | Normal       |
 | INTERMEDIATE = 'UTD P2' | **>=15mm**    | Central &/or **Peripheral** | Normal Thickness or Appearance        | **Abnormal** | Normal       |
 | HIGH = 'UTD P3'         | >=15mm        | Central &/or Peripheral     | **Abnormal Thickness or Appearance**. | Abnormal     | **Abnormal** |
 
@@ -189,7 +152,7 @@ Defined both 'A' = antenatal findings and management *and*
 
 #### Infants < 6 months old 
 
-Test | Good response <48/24 | Atypical UTI | Recurrent UTI
+|Test | Good response <48/24 | Atypical UTI | Recurrent UTI|
 ---|---|---|---|
 USS during Acute | No | Yes | Yes 
 USS < 6 wk | Yes^a^ | No | No 
@@ -200,7 +163,7 @@ MCUG | No | Yes | Yes
 
 #### Infants and Children 6 Months to 3 years old.
 
-Test | Good response <48/24 | Atypical UTI | Recurrent UTI
+| Test | Good response <48/24 | Atypical UTI | Recurrent UTI|
 ---|---|---|---|
 USS during Acute | No | Yes | No 
 USS < 6 wk | No | No | Yes 
@@ -215,7 +178,7 @@ MCUG | No | No ^a^ | No ^a^
 
 #### Children > 3years old. 
 
-Test | Good response <48/24 | Atypical UTI | Recurrent UTI
+|Test | Good response <48/24 | Atypical UTI | Recurrent UTI|
 ---|---|---|---|
 USS during Acute | No | Yes | No 
 USS < 6 wk | No | No | Yes 
@@ -287,17 +250,17 @@ Generally PKD2 produce fewer cysts and the tests are less useful.
 **Voiding postponement**: Child habitually delays voiding as long as possible and consequently wets due to an uninhibited bladder contraction due to overfilled bladder. Often present with low voiding frequency <4 voids per day.
 
 
-Range of Diagnoses Used include: 
- - Bladder & Bowel Dysfunction
- - Overactive bladder
- - Dysfunctional Voiding 
- - EDOUF (Extraordinary Daytime Only Urinary Frequency)
- - Giggle Incontinence 
- - Vaginal Reflux 
- - Stress Incontinence 
- - Voiding Postponement 
- - Underactive Bladder 
- - Bladder Outlet Obstruction (BOO) or Bladder Neck Dysfunction 
+Range of Diagnoses Used include:   
+ - Bladder & Bowel Dysfunction  
+ - Overactive bladder  
+ - Dysfunctional Voiding   
+ - EDOUF (Extraordinary Daytime Only Urinary Frequency)  
+ - Giggle Incontinence   
+ - Vaginal Reflux   
+ - Stress Incontinence   
+ - Voiding Postponement   
+ - Underactive Bladder   
+ - Bladder Outlet Obstruction (BOO) or Bladder Neck Dysfunction  
 
 But, mostly they blend together. 
 
@@ -341,17 +304,17 @@ Does not mention US.
 
 **EAU Paediatric Urology: 3.10 Day-time lower urinary tract conditions** [^Uroweb2022]
 
-Splits them into 
+Splits them into:   
 a) Filling-phase (Storage) dysfunctions  
-- Detrusor can be over (OAB) or underactive (UAB). Over is more common.
-- Over leads to urgency, frequency & urgency incontinence. 
-- Recurrent UTIs common due to voiding postponement or high pressure in the bladder causing VUR. Often associated with constipation. 
-- Under tend to have post-void residuals. 
+    - Detrusor can be over (OAB) or underactive (UAB). Over is more common.  
+    - Over leads to urgency, frequency & urgency incontinence.   
+    - Recurrent UTIs common due to voiding postponement or high pressure in the bladder causing VUR. Often associated with constipation.  
+    - Under tend to have post-void residuals.   
 
-b) Voiding-phase (Emptying) dysfunctions
-- Incomplete relaxation or contraction of the sphincteric mechanism and pelvic floor muscles 
-- lead to staccato voiding pattern ( continuous urine flow with periodic reductions in flow rate ) or interrupted voiding pattern (unsustained detrusor contractions resulting int infrequent and incomplete voiding with micturitions in fractions ). General title is dysfunctional voiding. 
-- Associated with increased bladder pressure and PVR. 
+b) Voiding-phase (Emptying) dysfunctions  
+  - Incomplete relaxation or contraction of the sphincteric mechanism and pelvic floor muscles.  
+  - Lead to staccato voiding pattern ( continuous urine flow with periodic reductions in flow rate ) or interrupted voiding pattern (unsustained detrusor contractions resulting int infrequent and incomplete voiding with micturitions in fractions ). General title is dysfunctional voiding.  
+  - Associated with increased bladder pressure and PVR.   
 
 Does not make recommendation in the end points of the recommendation but in diagnostic evaluation it states: 
 > "The upper urinary tract needs evaluating in children with recurrent infections and dysfunctional voiding".

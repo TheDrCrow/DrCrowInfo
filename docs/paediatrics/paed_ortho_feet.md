@@ -1,42 +1,5 @@
 
-# FF_Foot Alignment and Developmental. 
-
-## Table of Contents
-- [FF_Foot Alignment and Developmental.(#ff_foot-alignment-and-developmentalstein2015)
-  - [Table of Contents](#table-of-contents)
-  - [## **Anatomy, Procedure & Technical**](#-anatomy-procedure--technical)
-  - [## **Guidelines**](#-guidelines)
-  - [## **Clinical**](#-clinical)
-  - [## **Differentials**](#-differentials)
-  - [## **Radiological**](#-radiological)
-  - [## **How to Report**](#-how-to-report)
-  - [(References)](#references)
-- [Foot Alignment and Developmental. [^Stein2015]](#foot-alignment-and-developmental-stein2015)
-  - [Basics.](#basics)
-    - [1) Ankle](#1-ankle)
-    - [***2) Hindfoot***](#2-hindfoot)
-      - [Assessed on AP and Lateral.](#assessed-on-ap-and-lateral)
-    - [***3) Midfoot***](#3-midfoot)
-    - [***4) Forefoot***](#4-forefoot)
-
----
-
-## **Anatomy, Procedure & Technical**
-
----
-
-## **Guidelines**
-
----
-## **Clinical**
-
----
-## **Differentials**
-
----
-## **Radiological**
-
----
+# Foot Alignment and Developmental. 
 
 ## **How to Report**  
 
@@ -83,12 +46,7 @@ Varus and Valgus tilts are possible and not discussed here.
 -> **adduction** and **abduction**
 
 
-
 [NB: **Inversion** and **Eversion** = motion of most of the foot around a near stationary talus. This is mostly the intertarsal joints but involves many/all the foot joints.] 
-
---- 
-
-### Other 
 
 
 [^Stein2015]: R.Stein-Wexler et al (eds). Paediatric Orthopaedic Imaging.
