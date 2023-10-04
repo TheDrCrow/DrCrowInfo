@@ -1,29 +1,10 @@
 # Subarachnoid Haemorrhage.
 
-## Table of Contents
-- [Subarachnoid Haemorrhage.](#ff_subarachnoid-haemorrhage)
-  - [Table of Contents](#table-of-contents)
-  - [- References](#--references)
-  - [**Anatomy, Procedure & Technical**](#anatomy-procedure--technical)
-  - [**Guidelines**](#guidelines)
-  - [**Clinical**](#clinical)
-  - [**Differentials**](#differentials)
-    - [Convexity Subarachnoid](#convexity-subarachnoid)
-  - [**Radiological**](#radiological)
-  - [**Papers**](#papers)
-  - [**How to Report**](#how-to-report)
-  - [References](#references)
----
-
-## **Guidelines**
-
----
-
 ## **Differentials**
 
-### Convexity Subarachnoid
+### Convexity Subarachnoid  [^Khurram2014]
 
-1. CAA (39%)  [^Khurram2014]
+1. CAA (39%)
 1. Reversible Cerebral Vasoconstriction Syndrome (17%)  
 1. Cerebral Venous Sinus Thrombosis (10%)  
 1. Large-vessel stenotic atherosclerosis (10%)  

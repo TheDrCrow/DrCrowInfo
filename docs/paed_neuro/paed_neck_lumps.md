@@ -9,9 +9,9 @@
 
 SCM covers the majority of nodes thus not felt.  
 - Therefore Level V are frequently referred even when normal as superficial.   
-Level IIB nodes are most likely to be enlarged due to the drainage of throat.
-  - Peaks of presentation in pre-school/early school and then in Teens.  
-Defines 'Reactive' as normal morpho but with high flow, normal pattern.
+Level IIB nodes are most likely to be enlarged due to the drainage of throat.  
+- Peaks of presentation in pre-school/early school and then in Teens.  
+Defines 'Reactive' as normal morpho but with high flow, normal pattern.  
 
 ### 1. Lymphadenitis 
 
@@ -21,9 +21,10 @@ DD: Cat Scratch fever, fungi, Mononucleosis, AIDS, Sarcoid, Histiocytosis et al 
 > Mycobacterial = Well child with large, round nodes which are less hot / vascular than expected and often with extension to skin.  
 
 ### 2. Lymphoma 
-CF: Feel hard, round, non-mobile but painless.
-Rad: Round, hypoechoic, clustered nodes.  
-    Hypervascular (vascular index might help in future)
+CF: Feel hard, round, non-mobile but painless.  
+Radiology:   
+-- Round, hypoechoic, clustered nodes.    
+-- Hypervascular (vascular index might help in future)
 
 ### 3. Papillary Thyroid Ca.
 The only other commonish malignancy in nodes in kids.  
@@ -34,25 +35,29 @@ NB = Look at thyroid as well.
 = Mostly **Cysts** and diagnosable by *Location, Location, Location*.[^McQueen2021]
 
 ### 1. Thyroglossal Cysts.
-Anat: Thyroglossal Duct= Back of Tongue -> *Over* Hyoid -> lower neck.
-Path: Persistence of part of duct = 
-    1) Ectopic Thyroid and/or
-    2) Thyroglossal duct cyst 
-   So, always check the thyroid to ensure it is there.   
-Hyoid Bone is key = 
- -20% Suprahyoid 
- -30% @ Hyoid 
- -50% Infrahyoid  
+Anatomy:  
+Thyroglossal Duct= Back of Tongue -> *Over* Hyoid -> lower neck.  
+Pathology: Persistence of part of duct =   
+1) Ectopic Thyroid and/or   
+2) Thyroglossal duct cyst   
    
-RAD: 
- -Avascular, mid/off mid cyst. ( infra hyoid often embed in strap muscles )
- -Often pseudosolid.
- -**Look for Track** as the diffs don't have this but will be small and subtle.
-RX: Small risk of malignant degeneration into Pap Thryoid which can be tricky to diff from normal tissue. Also risks of infection etc  
+So, always check the thyroid to ensure it is there.   
+
+Hyoid Bone is key =   
+ -20% Suprahyoid   
+ -30% @ Hyoid   
+ -50% Infrahyoid    
+   
+Radiology:   
+-Avascular, mid/off mid cyst. ( infra hyoid often embed in strap muscles )  
+-Often pseudosolid.  
+-**Look for Track** as the diffs don't have this but will be small and subtle.  
+Rx:   
+Small risk of malignant degeneration into Pap Thryoid which can be tricky to diff from normal tissue. Also risks of infection etc    
 --SISTRUNK Procedure: En-block removal of thyroglossal cyst & duct remnant with central part of hyoid bone.   
 
 DD: Epidermoid / Dermoid   
-Does not have track. US is best at diff
+Does not have track. US is best at diff  
 
 ### 2. Branchial Cleft Cysts 
 
@@ -70,23 +75,25 @@ Type | Freq | Anatomy | Presentation |
 Generally divided into LOW & HIGH flow lesions.
 In H&N 
 
-#### Lymphatic  
-75% of all are in H&N. 
-CF: <2yr old, Soft cyst in posterior triangle.
-RAD: Lobulated, thin-walled, micro (<2mm) vs macro cyst.
- -High T2, often Fluid-Fluid levels (= slow flow). 
- -Transpatial (as lymph channels)  
+#### Lymphatic   
+75% of all are in H&N.   
+CF: <2yr old, Soft cyst in posterior triangle.  
+Radiology: Lobulated, thin-walled, micro (<2mm) vs macro cyst.  
+-- High T2, often Fluid-Fluid levels (= slow flow).  
+-- Transpatial (as lymph channels)   
 
-#### Venous 
-45% of all are in H&N 
-CF: Teen/YP, ^^Exercise/Valsalva, compressible.
-RAD: Septated, High T2 
- -PHLEBOLITHS
+#### Venous   
+45% of all are in H&N   
+CF: Teen/YP, ^^Exercise/Valsalva, compressible.   
+Radiology: Septated, High T2.   
+-- PHLEBOLITHS  
 
-#### Infantile Haemangioma  
-60% of all are in H&N. 
-Rarely seen at birth but 90% become visible in first month.
-EPID: 1% of newborn but 12% at 1y age.
-NH: Grow in 1st yr, tend to regress 1-3ys. 
-RAD: US = Discrete masses.
- -High-velocity arterial and low-resistance venous waveforms.
+#### Infantile Haemangioma   
+60% of all are in H&N.    
+Rarely seen at birth but 90% become visible in first month.   
+Epid: 1% of newborn but 12% at 1y age.  
+NH: Grow in 1st yr, tend to regress 1-3ys.   
+RAD: US = Discrete masses.  
+-- High-velocity arterial and low-resistance venous waveforms.  
+
+

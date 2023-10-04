@@ -124,9 +124,9 @@ Inspect all the slices of the volumes on workstation using 1mm MPR.
 
 --- 
 
-### Complications & Weird Stuff. 
+## Complications & Weird Stuff. 
 
-#### Medication Effects.
+### Medication Effects.
 
 Chronic Anti-Epileptic Therapy can => 
  - Cerebellar volume loss  

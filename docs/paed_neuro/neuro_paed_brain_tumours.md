@@ -1,18 +1,7 @@
 
 # Paediatric Brain Tumours. 
-- [Paediatric Brain Tumours.](#paediatric-brain-tumours)
-  - [Overview](#overview)
-  - [Posterior Fossa Predominant Tumours](#posterior-fossa-predominant-tumours)
-    - [Ependymoma](#ependymoma)
-    - [Medulloblastoma](#medulloblastoma)
-      - [Medulloblastomas](#medulloblastomas)
-    - [Diffuse Midline Glioma, H3 K27-altered.](#diffuse-midline-glioma-h3-k27-altered)
-  - [Supratentorial Predominant Tumours](#supratentorial-predominant-tumours)
-    - [Low Grade Gliomas](#low-grade-gliomas)
-      - [Pilocytic Astrocytoma.](#pilocytic-astrocytoma)
-      - [Diffuse Astrocytoma.](#diffuse-astrocytoma)
-    - [High Grade Gliomas.](#high-grade-gliomas)
-  
+
+## Introduction 
 
 Everything you know had been thrown in the air by the WHO Classification of Tumours of the CNS. 2021 [^Louis_2021] which 
     - Moves to a genetic and protein analysis > position, histo, IHC etc. 
@@ -66,9 +55,8 @@ Group | Type | % of all tumours | Median Age |
 
 --- 
 
-## Posterior Fossa Predominant Tumours 
+## Posterior Fossa Predominant Tumours [^Choudri_2017] [^Louis_2021] [^Brandao_2016]  
 
-[^Choudri_2017] [^Louis_2021] [^Brandao_2016]  
 30% of all Brain tumours in <14yr.
 Read: [^Brandao_2016] for Imaging. 
 
@@ -87,14 +75,21 @@ WHO 2021 has expanded into a family of tumours based on Histopath, molecular
 features & anatomic site. 
 Long-standing controversy about grading Ependymomas. But still allowed 2 or 3.  
 
-Anatomically divided into Supratentorial, Posterior Fossa and Spinal with
-Myxopapillary and Subependymoma being the other 2 types.   
-- The Posterior Fossa group are typed as:
-    - Posterior Fossa Ependymoma
-        - for when molecular analysis fails / is negative etc.
-    - Posterior Fossa Ependymoma, group PFA.
-    - Posterior Fossa Ependymoma, group PFB.
-This must be something to do with / without hypermethylated phenotype (CIMP) 
+Anatomically divided into:   
+
+- Supratentorial  
+- Posterior Fossa   
+- Spinal
+- Myxopapillary 
+- Subependymoma.
+
+
+##### The Posterior Fossa group are typed as:
+- Posterior Fossa Ependymoma
+    - for when molecular analysis fails / is negative etc.
+- Posterior Fossa Ependymoma, group PFA.
+- Posterior Fossa Ependymoma, group PFB.
+>This must be something to do with / without hypermethylated phenotype (CIMP) 
 
 
 ### Medulloblastoma 
@@ -115,53 +110,57 @@ Subgroups have come about via methylation and transcriptome profiling.
     - Medulloblastoma, non-WNT/non-SHH
         - Was the 'Group 3 & 4' in the 2016 WHO.
         - Now 8 subgroups 
-- Medulloblastomas, histologically defined.
-        - [ 2016 had 4 morpho patterns, each separate now all combined ]
-        - [ Classic, Desmoplastic/Nodular, MB with Extensive Nodularity(MBEN) &
-            Large cell/Anaplastic ] 
-        - But molecularly defined MB have associations with morpho patterns. 
-        - Desmoplastic/Nodular & MBENs == SHH-1 and SHH-2. 
-        - WNT-activated == Classic morphology.
-        - Large Cell / Anaplastic == SHH-3  
+- Medulloblastomas, histologically defined.  
+    - Classic 
+    - Desmoplastic / Nodular
+    - MB with extensive nodularity (MBEN)
+    - Large cell / Anaplastic 
+    
+> 2016 had 4 morpho patterns, each separate now all combined.  
+> But molecularly defined MB have associations with morpho patterns.   
+> Desmoplastic/Nodular & MBENs == SHH-1 and SHH-2.   
+> Classic morphology == WNT-activated 
+> Large Cell / Anaplastic == SHH-3   
 
-**SHH(Sonic Hedgehog) Medulloblastoma**
-- 30% of all MBs, Intermediate prognosis. 
-- Dichotomous Age with spikes in <4yo and >16yo. 
-- Mostly in the hemispheres and not in midline.
-- Mostly Desmoplastic morphology. 
+**SHH(Sonic Hedgehog) Medulloblastoma**  
+- 30% of all MBs, Intermediate prognosis.   
+- Dichotomous Age with spikes in <4yo and >16yo.   
+- Mostly in the hemispheres and not in midline.  
+- Mostly Desmoplastic morphology.   
 
-**WNT(Wingless) Medulloblastomas**
-- 10%, Best prognosis = OS of 90% and thus most studied.
-- Age: Spike in 10-12yo. 
-- Mostly in middle cerebellar peduncle or CPA. 
+**WNT(Wingless) Medulloblastomas**  
+- 10%, Best prognosis = OS of 90% and thus most studied.  
+- Age: Spike in 10-12yo.   
+- Mostly in middle cerebellar peduncle or CPA.   
 - Classic histology/morphology. Rarely Large cell / anaplastic but retain good
-    prognosis.  
+    prognosis.    
 
-**non-WNT/non-SHH** 
-- includes the 'Group 3' = 25%, worse prognosis. 
-- Age: Children not adults. MYC amplification.
-- Mostly rather ill-defined on imagin. 
-- Classic or Large cell/anaplastic morpho
+**non-WNT/non-SHH**   
+- includes the 'Group 3' = 25%, worse prognosis.   
+- Age: Children not adults. MYC amplification.  
+- Mostly rather ill-defined on imaging.   
+- Classic or Large cell/anaplastic morpho  
 
-**THINK** Germline mutations.
-1. Basal Cell Naevus Syndrome (Gorlin Syndrome) 
-    - AD. 10% get MBs. 
-    - Falcine Calcification = is a marker!! 
-2. Turcot Syndrome 
-    - Familial colonic polyposis.
-    - High Inc of CNS tumours esp MB & Glioma. 
-3. Li-Fraumeni 
-    - Have mutations in *p53* tumour suppressor gene. 
-    - Lots of sarcomas but 10% MB. 
+**THINK** Germline mutations.   
+1. Basal Cell Naevus Syndrome (Gorlin Syndrome)   
+    - AD. 10% get MBs.   
+    - Falcine Calcification = is a marker!!   
+2. Turcot Syndrome   
+    - Familial colonic polyposis.  
+    - High Inc of CNS tumours esp MB & Glioma.   
+3. Li-Fraumeni   
+    - Have mutations in *p53* tumour suppressor gene.   
+    - Lots of sarcomas but 10% MB.   
 
 ### Diffuse Midline Glioma, H3 K27-altered. 
 
-Prognosis is related to site.  
-    - Midbrain = 80% at 5ys.
-    - Pontine = 20% at 5 yrs
-and to Extension 
-    - Diffuse = 20% at 5ys 
-    - Focal = 80% at 5ys.
+Prognosis is related to site.   
+    - Midbrain = 80% at 5ys.  
+    - Pontine = 20% at 5 yrs 
+
+and to Extension   
+    - Diffuse = 20% at 5ys   
+    - Focal = 80% at 5ys.  
 
 H3-K27M =Gene for the Histone H3.
 
@@ -173,21 +172,21 @@ More common in teens and <2 yr
 
 | Tumour | Demo | Path | Appearance | MRI | Enhancement | Notes | 
 |:---|:---|:---|:---|:---|:---|:---|
-| **GLIOMAS** | **Pediatric-type diffuse LOW-GRADE gliomas** | | | | | | 
+| **GLIOMAS** | | **Pediatric-type diffuse LOW-GRADE gliomas** | | | | |  
 | Diffuse Astrocytoma | Uncommon | WHO Grade 2. Only 10% in kids will have malignant degeneration | Anywhere in CNS but 33% in Frontal or Parietal. Not well-defined. | T1:Low, homo. T2:Hi, homo. ADC:High. | 0 | 
 | Angiocentric Glioma. | Intractable seizures | Cortical/subcortical. Spread horizontally. Assoc'd with FCD | Well-defined nodule, can expand the gyrus. | T1:Low, occ High T1 rim. T2:High,cystic appearing | 0 | First described in 2005. DD:astrocytoma & olidodendroglioma.| 
-| | **Pediatric-type diffuse HIGH-GRADE gliomas** |  | AA and GB have now been thrown out so tricky to write up imaging findings. | | | | 
+| | | **Pediatric-type diffuse HIGH-GRADE gliomas** | AA and GB have now been thrown out so tricky to write up imaging findings. | | | |  
 | Pediatric-type diffuse high-grade gliomas (=Family name.) | GB rare in kids but AA is uncommon. | Rapid growth. Frontal & Temporal lobes | Infiltrative, poor definition. | T1=Low. T2=High, ADC=Mod low. | 0 / ++ | The GB rarities are more hetero with necrosis, cysts, haem. Generally T2=Iso, ADC=Low. Nht+++.
-| | **Circumscribed Astrocytic Gliomas** | WHO 2021 Family Name. | 
+| | | **Circumscribed Astrocytic Gliomas** | WHO 2021 Family Name. | 
 | Pilocytic Astrocytoma | 1/3 of all gliomas in kids. Most common CNS tumour. Even age distribution after 1yo. | WHO Grade 1. Slow growth, Rare malignant degeneration. | Mostly cerebellum. But also: optic chiasm/nerves, hypothalamus and rare cerebrum. Less often cystic. Mostly solid. | High ADC.  | +++ | 10yOS= 90%+ |
 | Pleomorphic Xanthoastrocytoma (PXA) | Rare, Any age. Median=20yo. 75% present with seizures. | WHO Grade 2 but 20% are aggressive. Slow growth. | Supratentorial, peripheral site and abut meninges. Temporal>Frontal>Parietal | T2=Iso/High, hetero. | Solid parts +++ | Most 10yOS = 67%. 
 | Subependymal Giant Cell Tumour (SEGA SEGT) | Develop in childhood. 15% of all TSC patients | | Nearly always in a lateral ventricle near FoM. Ca2+ & Haem. | T2=High, Hetero | +++ | NB: Risk of Obs HC. 
 | Ependymoma |  | 40% Supratentorial & 50% parenchymal. | Ca2+, haem etc. Much less often cystic. Frontal >> Parietal. | T2=Mixed,hetero but well-defined. ADC > embryonal tumours. | ++ but hetero. | 
-| | **Glioneuronal & Neuronal Tumours** | 
+| | | **Glioneuronal & Neuronal Tumours** | 
 | Ganglioneuroma | 85% = Intractable seizures. | Neoplastic neuronal elements & astrocytes. Nearly all Grade 1. 1% are Grade 3. | Temporal lobe esp Mesial part >> Frontal. Ca2+ = common. Cystic-solid. | T1:Mixed. T2: High,ill-defined. | ++/+++ | 7.5yOS = 98% 
 | Desmoplastic Infantile ganglioneuroma / Desmoplastic infantile astrocytoma | Very rare, Infants <2y.| WHO Grade 1 | Large at presentation.  Peripheral near cortex. Cystic with solid nodules. Vasogenic oedema is low. | T2:Iso/Hypo nodules. ADC: variable can be low even if benign.| Nodule ++/++ | Can look pretty horrible and large with mass effect. 
 | Dysembryoplastic Neuroepithelial Tumour (DNET) | Seizures in Teens M>F | WHO Grade 1. 30% have adjacent cortical dysplasia | Cortical based, mostly temporal but can be elsewhere. Min/Mild Oedema. Well-defined bubbly cystic. 'Triangular config' on T2. 40% calcification. | T1:Iso/Low. T2:High. ADC: High | 0 , but 1/3 will enhance. |  | 
-| **EMBRYONAL** | NB: PNET was removed in WHO 2016 | 
+| **EMBRYONAL** | | NB: PNET was removed in WHO 2016 | 
 | Other CNS Embryonal tumours  (= All the non-MB Embryonals). | Uncommon 3-5% of all paed CNS tumours) <5y most common. | Heterogenous group of aggressive WHO Grade IV tumours distinct from WB but include neuroblastomas, ganglioneuroblastomas, ependymoblastomas,medulloepitheliomas | Large, well defined but hetero with cysts, Ca2+. | ADC:Low | +++ Hetero | This family includes ATRTs which are not uncommon in Infants. 
 
 
@@ -197,28 +196,30 @@ More common in teens and <2 yr
 10yr OS = >80%. 
 
 #### Pilocytic Astrocytoma. 
-Most have a BRAF-KIAA1549 gene mutation = assoc with better outcomes. 
-Optic pathway glioma = 33% have NF type1.
+Most have a BRAF-KIAA1549 gene mutation = assoc with better outcomes.   
+Optic pathway glioma = 33% have NF type1.  
 
 #### Diffuse Astrocytoma.
-Now in WHO 2021 the categorization is:
-- Pediatric-type diffuse low-grade glioma. (Family)
-  - Diffuse Astrocytoma, *MYB or MYBL1* altered. (Type)
-  - Angiocentric Glioma. 
-  - Polymorphous low-grade neuroepithelial tumour of the young (PLNTY).
-  - Diffuse low-grade glioma, MAPK pathway-altered.
+Now in WHO 2021 the categorization is:   
+
+- Pediatric-type diffuse low-grade glioma. (Family)  
+    - Diffuse Astrocytoma, *MYB or MYBL1* altered. (Type)  
+    - Angiocentric Glioma. 
+    - Polymorphous low-grade neuroepithelial tumour of the young (PLNTY).
+    - Diffuse low-grade glioma, MAPK pathway-altered.
     - Encompasses tumours with astrocytic or oligodendroglial morpho. 
 
 ### High Grade Gliomas. 
 
-Uncommon in kids qv adults but 11% of all CNS tumours in kids.
-Most common in adolescents.
-Most purely astrocytic in origin with mixed or non-astrocytic types = rare. And the high-grade tumours are molecularly distinct so the 'anaplastic astrocytoma' or 'glioblastoma' are now not used. WHO 2021 is :
+Uncommon in kids qv adults but 11% of all CNS tumours in kids.  
+Most common in adolescents.   
+Most purely astrocytic in origin with mixed or non-astrocytic types = rare. And the high-grade tumours are molecularly distinct so the 'anaplastic astrocytoma' or 'glioblastoma' are now not used. WHO 2021 is :  
+
 - Pediatric-type diffuse high-grade glioma. (Family) 
-  - *Diffuse midline glioma, H3 K27-altered* (Type)
-  - Diffuse hemispheric glioma, H3 G34-mutant
-  - Diffuse pediatric-type high-grade glioma, H3-wildtype & IDH-wildtype
-  - Infant-type hemispheric glioma
+    - *Diffuse midline glioma, H3 K27-altered* (Type)
+    - Diffuse hemispheric glioma, H3 G34-mutant
+    - Diffuse pediatric-type high-grade glioma, H3-wildtype & IDH-wildtype
+    - Infant-type hemispheric glioma
     - Novel tumour in infants with char molecular profile inc *ALK,ROS1,NTRK1/2/3 or MET*
 
 THINK Prior RT or Li-Fraumeni etc.  

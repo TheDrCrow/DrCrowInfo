@@ -46,7 +46,7 @@ nav:
      - 'Epilepsy': 'paed_neuro/neuro_paed_epilepsy.md'
      - 'Tumours': 'paed_neuro/neuro_paed_brain_tumours.md'
      - 'Pit & Pineal': 'paed_neuro/neuro_paed_Pit_Pineal.md'
-     - 'Neurofibromatosis': 'paed_neuro/neuro_paed_neurofibromatosis.md'
+     - 'Neurofibromatosis': 'paed_neuro/paed_neuro_neurofibromatosis.md'
      - 'Neck Lumps': 'paed_neuro/paed_neck_lumps.md'
      - 'Scoliosis': ''
    - 'Neuroradiology':

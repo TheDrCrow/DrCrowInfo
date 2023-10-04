@@ -1,9 +1,5 @@
 # Pituitary, Midline & Pineal Tumours 
 
-- [Pituitary, Midline & Pineal Tumours](#pituitary-midline--pineal-tumours)
-  - [Pituitary Tumours](#pituitary-tumours)
-  - [Pineal Tumours](#pineal-tumours)
-
 [^Bhatia_2021]:Bhatia UoPhiladelphia, Supra-sellar Tumours, SPIN 2021. NotSaved.
 [^Choudri_2017]:Choudri A, Pediatric Neuroradiology: Clinical Practice Essentials, Thieme 2017.
 [^Louis_2021]:Louis D et al, The 2021 WHO Classification of Tumours of the CNS; A summary, Neuro-Oncology 23(8),1231-1251, H&P+ 
@@ -11,12 +7,10 @@
 [^Ramaswamy_2022]:Ramaswamy V et al, Primary Nervous System Tumours in Infants & Children, in Bradley & Daroff's Neurology in Clinical Practice, 75,1122-1144 2022, ClinicaKey.   
 [^Tamrazi_2017]:Tamrazi B et al , Pineal Region Massed in Paediatric Patients, Neuroimag Clin N Am 27 (2017) 85–97 http://dx.doi.org/10.1016/j.nic.2016.08.002 Papers+
 
-Focus is on children's tumours.  
-Clinical [^Ramaswamy_2022]
+Focus is on children's tumours.[^Ramaswamy_2022]
 
-## Pituitary Tumours 
-[^Bhatia_2021] [^Choudri_2017]   
-Imaging [^Seeburg_2017]  
+## Pituitary Tumours [^Bhatia_2021] [^Choudri_2017]   
+Imaging[^Seeburg_2017]  
 
 Rare <10y but 25% of all CNS in 15-19 yo.   
 12% of all CNS tumours in 0-19 yo.  
@@ -36,13 +30,11 @@ Arachnoid Cyst | | 16% are suprasellar but in kids this is 75%. | | |
 
 > Pituicytoma, Granular Cell Tumour & Spindle Cell Oncocytoma are all viewed as 1 group of tumours all related. But might just be different presentations of the same tumour. [^Louis_2021]
 
-Pit apoplexy can be haem or non-haem and 70% have underlying macroadenoma. But can be spontaneous.Cato
+Pit apoplexy can be haem or non-haem and 70% have underlying macroadenoma. But can be spontaneous.
 
 --- 
 
-## Pineal Tumours 
-
-[^Choudri_2017]   
+## Pineal Tumours [^Choudri_2017]   
 Imaging [^Tamrazi_2017]
 
 
@@ -52,6 +44,5 @@ Imaging [^Tamrazi_2017]
 | Pineocytoma | All ages. Peak =20-50yo | WHO Grade 1. Histo same as normal tissue. | Well-defined, High T2 lesions. Gd:Var but not ADC low. But can be mixed cyst-solid and haem. | 
 Gd:Avid,hetero. Ca2:Central | Dx:Serum & CSF aFP, bHCG, plALP Rx: Chemo & RT. 5yOS >90%.| 
 | Pineoblastoma | 10% of Pineal masses. M=F | WHO Grade 4. Embryonal. Infiltrative | T1:Hetero. T2:Hetero. ADC:Low. Gd:0->Moderate. Ca2:Peripheral (qv GCT) | 5yOS<50% [Trilateral Retinoblastoma = Bilateral retinoblastoma + pineoblastoma.| | Astrocytoma |  | Often arise from thalami, CC, III etc. | T1:Low. T2:High. ADC:Var, low in HG parts. Gd:0/+. | Tectal glioma etc.   | 
-
 
 
