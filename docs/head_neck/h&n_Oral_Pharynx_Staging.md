@@ -1,51 +1,7 @@
 # Head & Neck Staging: Oral Cavity & Pharynx.
 
 ## Table of Contents
-- [Head & Neck Staging: Oral Cavity & Pharynx.](#head--neck-staging-oral-cavity--pharynx)
-	- [Table of Contents](#table-of-contents)
-	- [**Outline**](#outline)
-	- [Tumour](#tumour)
-	- [Nodes](#nodes)
-			- [N Staging *(all except NP and p16 OP)*](#n-staging-all-except-np-and-p16-op)
-			- [Impact of N - staging.](#impact-of-n---staging)
-			- [Treatment of Nodal Disease](#treatment-of-nodal-disease)
-	- [Mets](#mets)
-	- [**Oral Cavity (OC)**](#oral-cavity-oc)
-		- [Anatomy & Terminology](#anatomy--terminology)
-			- [Pathology](#pathology)
-		- [T Staging of Lip and Oral Cavity.](#t-staging-of-lip-and-oral-cavity)
-			- [Spread Patterns. aka Local invasion.](#spread-patterns-aka-local-invasion)
-		- [Nodes from Oral Cavity Tumours.](#nodes-from-oral-cavity-tumours)
-		- [Treatment](#treatment)
-	- [**Nasopharynx (NP)**](#nasopharynx-np)
-		- [T - Staging of NPCs.](#t---staging-of-npcs)
-		- [Notes on T - Staging of NPCs](#notes-on-t---staging-of-npcs)
-			- [T1](#t1)
-			- [T2 )](#t2-)
-			- [T3](#t3)
-			- [T4](#t4)
-		- [N Staging](#n-staging)
-		- [Treatment](#treatment-1)
-	- [**Oropharynx (OP)**](#oropharynx-op)
-		- [T - Staging of Oropharyngeal Tumours](#t---staging-of-oropharyngeal-tumours)
-			- [Spread Patterns aka Local Invasion.](#spread-patterns-aka-local-invasion-1)
-		- [Nodes from OP tumours.](#nodes-from-op-tumours)
-		- [Treatment](#treatment-2)
-	- [**Hypopharynx (HP)**](#hypopharynx-hp)
-		- [T - Staging](#t---staging)
-		- [Treatment](#treatment-3)
-	- [Treatment of Metastatic NODES.](#treatment-of-metastatic-nodes)
-		- [Surgery](#surgery)
-			- [For Clinical NODE POSITIVE without adverse features.](#for-clinical-node-positive-without-adverse-features)
-			- [For No Clinical / Rad features of positive but HIGH - RISK of occult (>20%)](#for-no-clinical--rad-features-of-positive-but-high---risk-of-occult-20)
-	- [**Second Primary**](#second-primary)
-	- [Post-Treatment Imaging.](#post-treatment-imaging)
-		- [Radiotherapy](#radiotherapy)
-			- [Early](#early)
-			- [Late](#late)
-		- [Surgery](#surgery-1)
-	- [**Post-Treatment Imaging & Surveillance**](#post-treatment-imaging--surveillance)
-	- [Post-Treatment Complications.](#post-treatment-complications)
+
 ---
 
 ## **Outline**  
@@ -54,8 +10,6 @@
 [More Anatomy](Link to the Gray's Anatomy)
 
 Follow TNM and[^King_2021] use for basis of template for structured reporting.   
-
-
 
 ---
 
@@ -131,28 +85,31 @@ Brain is rare at presentation.
 
 ### Anatomy & Terminology
 
-Consists of 'Subsites' = 
-1. **Lips** - mucosal surface of. 
-2. **Anterior 2/3 of tongue.** - *upto the circumvallate papilla*. 
-3. **Floor of mouth** - includes the sublingual spaces (SLS).
-4. **Buccal mucosa** - lines the cheeks. 
-5. **Gingival mucosa** - overlies the *upper and lower alveolar ridges* of the maxilla and mandible.
-6. **Retromolar trigone** - mucosa covering the last lower molar tooth and over the anterior ramus.  
-7. **Palatal Mucosa** 
+Consists of 'Subsites' =   
+1. **Lips** - mucosal surface of.  
+2. **Anterior 2/3 of tongue.** - *upto the circumvallate papilla*.  
+3. **Floor of mouth** - includes the sublingual spaces (SLS).  
+4. **Buccal mucosa** - lines the cheeks.   
+5. **Gingival mucosa** - overlies the *upper and lower alveolar ridges* of the maxilla and mandible.  
+6. **Retromolar trigone** - mucosa covering the last lower molar tooth and over the anterior ramus.    
+7. **Palatal Mucosa**   
 
 >Gap between cheek & alveolar ridges = *Oral Vestibule*.  
 
-**Oral Tongue** consists of:
-- Tip 
-- Ventral Surface (=undersurface)
-- Dorsal Surface 
-- Lateral borders.  
+**Oral Tongue** consists of:  
+- Tip   
+- Ventral Surface (=undersurface)  
+- Dorsal Surface   
+- Lateral borders.    
 
 Tongue muscles are *Intrinsic* = No bony attachment. or *Extrinsic* = Attached to bone.   
 Each half has separate blood supply & innervation with *Lingual septum (=raphe)* which is avascular & fibrofatty.  
 
-**Floor of Mouth** = Beneath mobile tongue and bounded by lower alveolar ridges. Inferior border is the *Mylohyoid* which separates from submental space.   
-Its contents are in the Sublingual space = Sublingual and minor salivary glands. Submandibular *(Wharton's)* duct, part of Hyoglossus muscle. Lingual artery, vein and nerve as well as Hypoglossal nerve. 
+**Floor of Mouth**   
+= Beneath mobile tongue and bounded by lower alveolar ridges. Inferior border is the *Mylohyoid* which separates from submental space.   
+Its contents are in the:   
+Sublingual space = Sublingual and minor salivary glands.   
+Submandibular *(Wharton's)* duct, part of Hyoglossus muscle. Lingual artery, vein and nerve as well as Hypoglossal nerve. 
 
 #### Pathology 
 
@@ -160,13 +117,13 @@ Its contents are in the Sublingual space = Sublingual and minor salivary glands.
 Others = minor salivary gland tumours, lymphoma, melanoma, sarcoma, odontogenic tumours, miscellaneous tumours.   
 
 Most detected early.  
-In West:
-	- Lip 40% (UV)
-	- Gingival & Buccal mucosa 20%
-	- Oral Tongue 15% 
-	- Floor of Mouth 15% 
-	- Hard Palate 5%  
-In Asia Gingival & Buccal mucosa = 75% due to Betel and tobacco chewing.  
+In West:  
+	- Lip 40% (UV)  
+	- Gingival & Buccal mucosa 20%  
+	- Oral Tongue 15%   
+	- Floor of Mouth 15%   
+	- Hard Palate 5%    
+In Asia Gingival & Buccal mucosa = 75% due to Betel and tobacco chewing.    
 
 ### T Staging of Lip and Oral Cavity.
 
@@ -174,7 +131,7 @@ In Asia Gingival & Buccal mucosa = 75% due to Betel and tobacco chewing.
 |:---|:---| 
 Tis | Carcinoma in Situ. 
 T1 | Max dimension =<2cm + DOI =< 5mm.
-T2 | Max =<2cm + DOI = 5 to 10mm. OR <br>Max >2cm to 4cm + DOI =<10mm.  
+T2 | Max =<2cm + DOI = 5 to 10mm. OR <br>Max > 2cm to 4cm + DOI =<10mm.  
 T3 | Max >4cm OR DOI >10mm.  
 T4a | **Lip**: invades through Cortical bone, Inferior alveolar nerve, Floor of mouth or Skin of chin or nose.<br>**Oral Cavity**: invades Cortical bone of mandible or maxilla, Maxillary sinus, or Skin of face. 
 T4b | **Both**: Invades Masticator space, Pterygoid plates, Skull base or encases ICA. 
@@ -208,13 +165,13 @@ One way to assess HNSCC spread is to think in terms of type of tissue - so skin,
 | | Deep | Masticator space (T4b)<br>Pterygoid plates or Skull base (T4b)<br>ICA encasement (T4b) | Skull base via pterygomandibular raphe.|
 | **Palate** | | Upper alveolus<br>Soft palate<br>Hard Palate Bone (T4a)<br>Alveolus Bone (T4a)<br>Nasal Cavity (T4a)<br>Maxillary Sinus (T4a)<br>Greater & Lesser Palatine Canals *then to*<br>Pterygopalatine fossa *then to*<br>Skull Base (T4b) | Most masses here are Salivary gland and most of them benign esp Pleomorphic adenomas.<br>Neural invasion via Palatine canals and PPF can be discontinuous = thus look carefully.
 
-For Surgical Planning then in **Oral Tongue** need to state:
-	1. Bulk (1/3 or more)
-	2. Size and Depth of invasion. 
-	3. Min distance to Lingual NV bundle. 
-	4. Min distance to contra Lingual NV bundle. 
-	5. Midline Raphe: Min distance to / Involved. 
-	6. Tongue Base / Larynx involvement. 
+For Surgical Planning then in **Oral Tongue** need to state:  
+	1. Bulk (1/3 or more)  
+	2. Size and Depth of invasion.   
+	3. Min distance to Lingual NV bundle.   
+	4. Min distance to contra Lingual NV bundle.   
+	5. Midline Raphe: Min distance to / Involved.   
+	6. Tongue Base / Larynx involvement.   
 
 ### Nodes from Oral Cavity Tumours.
 
@@ -237,22 +194,22 @@ Normally do WLE or partial glossectomies preserving at least one lingual NV bund
 
 ## **Nasopharynx (NP)**
 
-Is the odd one and different from other HNSCC, thus has separate T staging. 
+Is the odd one and different from other HNSCC, thus has separate T staging.  
 Is odd in its preference for skull base & CNS invasion and its histo:   
-WHO Classification:
-- Type I: Keratinizing SCC. 
-- Type II: Non-keratinizing SCC. 
-- Type III: Undifferentiated carcinoma. 
+WHO Classification:  
+- Type I: Keratinizing SCC.   
+- Type II: Non-keratinizing SCC.   
+- Type III: Undifferentiated carcinoma.   
 
 Type III is the commonest esp in China/SE Asia & North Africa.   
-M>>F, 40-60yo.  
+M>>F, 40-60yo.   
 EBV, diet and genetics (4x risk in 1st degree relatives).  
 
-DD: Lymphoma, Adenoid cystic & RMS 
+DD: Lymphoma, Adenoid cystic & RMS   
 
-Imaging = MRI for Staging and Assessment.
+Imaging = MRI for Staging and Assessment.    
 RT Planning.   
-Also DIAGNOSIS = 10% are occult on endoscopy, mostly small ones tucked into FOSSA OF ROSENMULLER.
+Also DIAGNOSIS = 10% are occult on endoscopy, mostly small ones tucked into FOSSA OF ROSENMULLER.  
 
 ### T - Staging of NPCs. 
 
@@ -269,97 +226,101 @@ Also DIAGNOSIS = 10% are occult on endoscopy, mostly small ones tucked into FOSS
 Is still T1 if it involves the Levator palatini muscle attached to the tube, or the Eustachian tube entrance.  
 NPC prefers to go Superiorly into nasal cavity than Inferiorly into Oropharynx.   
 
-#### T2 ) 
-Here it invades:
-- Parapharyngeal fat. 
-- Tensor Palatini muscle. 
-- Medial and Lateral Pterygoid muscles.
-- Carotid Sheath 
+#### T2   
+Here it invades:  
+- Parapharyngeal fat.   
+- Tensor Palatini muscle.   
+- Medial and Lateral Pterygoid muscles.  
+- Carotid Sheath.   
 >Pharyngobasilar Fascia = Thin black line along lateral & posterolateral aspects of NP. 
 
-**Posteriorly** => Retropharynx. 
-Here it invades: 
-- Preclival / Prevertebral muscles 
-- Prevertebral Fat & fascia. 
-- Venous Plexus ( Batson's venous plexus ). 
-Spreads preferentially down the retropharynx to the cervical level. 
+**Posteriorly** => Retropharynx.   
+Here it invades:   
+- Preclival / Prevertebral muscles   
+- Prevertebral Fat & fascia.   
+- Venous Plexus ( Batson's venous plexus ).   
+Spreads preferentially down the retropharynx to the cervical level.   
 
 #### T3
 
 Is where it starts to invade the skull base. 
 
-Assessment can be remembered as ( and important to report as): 
-1. THREE MAJOR BONY SITES
-   1. Pterygoids (medial part not protected by fascia)
-   3. Clivus
-   5. Petrous Apices
+Assessment can be remembered as ( and important to report as ):   
+A. THREE MAJOR BONY SITES    
+ -- Pterygoids (medial part not protected by fascia)  
+ -- Clivus  
+ -- Petrous Apices   
+
 >Which all fit in on one Ax T1 slice. Find this then check in MPR.   
 >Everyone writes this up as 5 but 2 are bilateral and bilaterality is ignored elsewhere. 
 
-2. THREE MAJOR FORAMINA 
-   1. Foramen Rotundum ( Vii nerve / Maxillary ) 
-   2. Foramen Ovale ( Viii nerve / Mandibular )
-   3. Foramen Lacerum ( Lots inc. Pterygoid Canal Artery, Pterygoid canal Nerve = Greater & Deep Petrosal Nerves, Terminal branch of Ascending Pharyngeal Artery). 
+B. THREE MAJOR FORAMINA    
+ -- Foramen Rotundum ( Vii nerve / Maxillary )    
+ -- Foramen Ovale ( Viii nerve / Mandibular )     
+ -- Foramen Lacerum ( Lots inc. Pterygoid Canal Artery, Pterygoid canal Nerve = Greater & Deep Petrosal Nerves, Terminal branch of Ascending Pharyngeal Artery).   
+
 >Best seen on Coronals. Foramen Lacerum runs beneath the horizontal part of the ICA
 >Others include Sphenopalatine, jugular foramen and foramen spinosum  
 
-3. THREE MAJOR CANALS
-   1. Vidian Canal ( Vidian nerve, from PPF to Foramen Lacerum )
-   2. Pterygopalatine Canal ( Greater and lesser Palatine nerves runs downwards to Palate)
-   3. Hypoglossal Canal ( XII and a venous plexus ).
+C. THREE MAJOR CANALS  
+ -- Vidian Canal ( Vidian nerve, from PPF to Foramen Lacerum )  
+ -- Pterygopalatine Canal ( Greater and lesser Palatine nerves runs downwards to Palate)  
+ -- Hypoglossal Canal ( XII and a venous plexus ).  
+
 >Enhancement on its own and symmetrically in the Hypoglossal canal is not tumour but venous. 
 >Others to consider but less often are Infraorbital ( Vii perineural spread ) & Optic Canal. 
 
-4. THREE MAJOR FISSURES 
-   1. Pterygomaxillary Fissure ( Posterior wall of Maxillary Sinus )
-   2. Orbital Fissures (Both superior and Inferior )
-   3. Petroclival Fissure ( between Clivus and Petrous Apex)
+D. THREE MAJOR FISSURES   
+ -- Pterygomaxillary Fissure ( Posterior wall of Maxillary Sinus )  
+ -- Orbital Fissures (Both superior and Inferior )  
+ -- Petroclival Fissure ( between Clivus and Petrous Apex)  
 
-5. ONE MAJOR FOSSA 
-   1. **Pterygopalatine Fossa**
-      1. Contains Vii and Pterygopalatine ganglion. 
-      2. Located at medial end of pterygomaxillary fissure and behind the Maxillary sinus.
-      3. DANGER ZONE as can spread from here into:
-         1. Medial wall of nasal cavity ( via Sphenopalatine foramen ).
-         2. Infratemporal Fossa ( via Pterygomaxillary fissure ). 
-         3. Orbit ( via IOF ).
-         4. Brain ( via Foramen Rotundum Vii )
-         5. ICA ( via Vidian canal )
-         6. Palate ( via Pterygopalatine Canal )
+E. ONE MAJOR FOSSA   
+ -- **Pterygopalatine Fossa**
 
-Also remember to mention: 
-1. Cervical Spine 
-2. Paranasal Sinuses. 
+> 1. Contains Vii and Pterygopalatine ganglion. 
+> 2. Located at medial end of pterygomaxillary fissure and behind the Maxillary sinus.
+> 3. DANGER ZONE as can spread from here into:  
+>         1. Medial wall of nasal cavity ( via Sphenopalatine foramen ).  
+>         2. Infratemporal Fossa ( via Pterygomaxillary fissure ).   
+>         3. Orbit ( via IOF ).  
+>         4. Brain ( via Foramen Rotundum Vii )  
+>         5. ICA ( via Vidian canal )  
+>         6. Palate ( via Pterygopalatine Canal )  
+
+Also remember to mention:   
+1. Cervical Spine   
+2. Paranasal Sinuses.   
 
 #### T4
 
-BRAIN & CRANIAL NERVES  
-- Mostly by Cavernous Sinus ( via bone, foraminae, ICA or nerves )
-- or Dura of Middle and Posterior Fossa.
-- Perineural involvement most often:
-  - Vii in Infraorbital Canal. 
-  - Viii in Parapharyngeal Fat space. 
-Also look out for VII and the communicators with V + VII = Auriculotemporal N. communicates Viii to VII in Parotid.  
-Look for signs of muscle denervation = Mastication -> Viii or Hemitongue -> XII .   
+BRAIN & CRANIAL NERVES    
+- Mostly by Cavernous Sinus ( via bone, foraminae, ICA or nerves )  
+- or Dura of Middle and Posterior Fossa.  
+- Perineural involvement most often:  
+ -- Vii in Infraorbital Canal.   
+ -- Viii in Parapharyngeal Fat space.   
 
-INFRATEMPORAL FOSSA 
-Space anterolateral to Lateral Pterygoid muscle.  
-Usually invaded by pterygomaxillary fissue (via PPF )
-or through the lateral pterygoid. 
-
-ORBIT, PAROTID & HYPOPHARYNX  
-Orbit invaded by the orbtial fissures & optic canal from cavernous sinus or PPF. 
-Hypopharynx is rare. 
+> Also look out for VII and the communicators with V + VII = Auriculotemporal N. communicates Viii to VII in Parotid.    
+> Look for signs of muscle denervation in Mastication -> Viii or Hemitongue -> XII.     
+  
+INFRATEMPORAL FOSSA   
+- Space anterolateral to Lateral Pterygoid muscle.    
+- Usually invaded by pterygomaxillary fissue (via PPF ) or through the lateral pterygoid.   
+  
+ORBIT, PAROTID & HYPOPHARYNX    
+- Orbit invaded by the orbtial fissures & optic canal from cavernous sinus or PPF.   
+- Hypopharynx is rare.   
 
 ### N Staging 
 
 Criteria for involvement are the same but the staging is different.  
-Spreads to nodes with ease; often big nodes but tiny primary. 
-**Level II & Retropharyngeal Nodes**. 
-Then follow the chains to III,IV or VA,VB.
->Medial retropharygeal nodes not very well defined - more of a plaque like level of enhancement.
-Bilateral is common. Freq large, necrotic, ENE. 
-N3 is best imaging predictor for advanced disease. 
+Spreads to nodes with ease; often big nodes but tiny primary.   
+**Level II & Retropharyngeal Nodes**.   
+Then follow the chains to III,IV or VA,VB.  
+>Medial retropharygeal nodes not very well defined - more of a plaque like level of enhancement.  
+Bilateral is common. Freq large, necrotic, ENE.   
+N3 is best imaging predictor for advanced disease.   
 
 Nodal Stage | Number + Site | Size (Max Dim) |
 |:---|:---|:---|
@@ -369,11 +330,10 @@ Nodal Stage | Number + Site | Size (Max Dim) |
 
 ### Treatment  
 
-Mostly RT. Little role for Surgery. Chemo for downstaging large (neoadj) and then ChemoRT. 
-Most often Cis/5FU or Cetuximab (eGFR receptor inhibitor). Immuno = Nivo and Pembro as well. 
+Mostly RT. Little role for Surgery. Chemo for downstaging large (neoadj) and then ChemoRT.   
+Most often Cis/5FU or Cetuximab (eGFR receptor inhibitor). Immuno = Nivo and Pembro as well.   
 
-NeoAdj systemic therapy does not improve OS but aids local control  
-
+NeoAdj systemic therapy does not improve OS but aids local control    
 
 ---
 
@@ -432,28 +392,27 @@ Bilateral common in midline.
 
 ### Treatment  
 
-Early = Surgery or RT. 
-Advanced = ( RT or ChemoRT ) +/- Surgery.  
+Early = Surgery or RT.   
+Advanced = ( RT or ChemoRT ) +/- Surgery.    
 
 RT generally better than Surgery for function preservation ( speech, swallowing,
-airway ) but long-term effects are real. 
+airway ) but long-term effects are real.   
 
-But minimally invasive techniques are beginning to show similar Outcomes to RT
-for **TORS** (Transoral Robotic Surgery) and **TLM** (Transoral Laser Microsurgery)
-For **HPV-associated Tumours** then trials of modified therapies are ongoing.  
+But minimally invasive techniques are beginning to show similar Outcomes to RT  
+for **TORS** (Transoral Robotic Surgery) and **TLM** (Transoral Laser Microsurgery)  
+For **HPV-associated Tumours** then trials of modified therapies are ongoing.    
 
 ---
 
 ## **Hypopharynx (HP)**
 
-Uncommon. But masses here nearly always are SCCs. 
-Mostly Piriform Sinuses. (75%) 
-60% involve more than one subsite at diagnosis. 
-Can be very shallow. 
-Not written much about this as it is not common. 
+Uncommon. But masses here nearly always are SCCs.   
+Mostly Piriform Sinuses. (75%)   
+60% involve more than one subsite at diagnosis.   
+Can be very shallow.   
+Not written much about this as it is not common.   
 
 ### T - Staging 
-
 
 | Tumour | Description | Notes 
 |:---|:---|:---| 
@@ -463,46 +422,47 @@ Not written much about this as it is not common.
 | T4a | Invades:<br>- Cricoid / Thyroid Cartilage<br>- Hyoid Bone<br>- Thyroid Gland<br>- Oesophagus<br>- Central compartment soft tissue.| 
 | T4b | Invades:<br>- Prevertebral Fascia<br>- Encasing Carotid<br>- Invading mediastinal structures. | 
 
->NB Sclerosis of Arytenoid or Cricoid cartilage is non-specific and might be reactive.  
+>NB Sclerosis of Arytenoid or Cricoid cartilage is non-specific and might be reactive.   
 
 ### Treatment 
-Early T1/T2 = RT (upto 70Gy)
-or Surgery with/without preop RT. 
-
-Advanced = Resect with partial or total laryngopharyngectomy if poss. 
-If not then RT or ChemoRT. 
+Early T1/T2 = RT (upto 70Gy)  
+or Surgery with/without preop RT.   
+  
+Advanced = Resect with partial or total laryngopharyngectomy if poss.   
+If not then RT or ChemoRT.   
 
 ---
 
-## Treatment of Metastatic NODES. 
+## Treatment of Metastatic NODES.   
 
-Based on combination of RT, Surg & Chemo (Adj & Neoadj) . 
-Often depends on the 1ry.
+Based on combination of RT, Surg & Chemo (Adj & Neoadj).  
+Often depends on the 1ry.  
 
 ### Surgery 
 
 = 'Neck Dissection' = Aim to remove involved OR at-risk nodal groups.  
 
-#### For Clinical NODE POSITIVE without adverse features. 
+#### For Clinical NODE POSITIVE without adverse features.   
 
-1) *Radical Neck Dissection* = en-bloc removal of unilateral. 
-	- Levels I - V nodes. 
-	- SCM Muscles
-	- IJV
-	- SMG
-	- Spinal Acc N.
-2) *Modified Neck Dissection* = more common.
-	- Levels I - V nodes.  
-But leave behind leave behind one or more of the above structures. 
+1) *Radical Neck Dissection* = en-bloc removal of unilateral.   
+	-- Levels I - V nodes.   
+	-- SCM Muscles  
+	-- IJV  
+	-- SMG  
+	-- Spinal Acc N.  
+2) *Modified Neck Dissection* = more common.  
+	-- Levels I - V nodes.    
+But leave behind leave behind one or more of the above structures.   
 
+  
 #### For No Clinical / Rad features of positive but HIGH - RISK of occult (>20%)  
 Which is most of them apart from low T stage glottic and some Low T stage OC.  
 
-1) Selective or Functional Neck Dissection.
-	- 1 or more nodal groups preserved. 
-	- *Supraomohyoid Neck Dissection* = Remove I - III. Used for Low T stage OC Ca.
+1) Selective or Functional Neck Dissection.  
+	- 1 or more nodal groups preserved.   
+	- *Supraomohyoid Neck Dissection* = Remove I - III. Used for Low T stage OC Ca.  
 
-Often followed by ChemoRT if adverse histo post-resection. 
+Often followed by ChemoRT if adverse histo post-resection.   
 
 ---
 

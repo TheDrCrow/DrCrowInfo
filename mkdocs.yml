@@ -65,7 +65,7 @@ nav:
      - 'ILD': 'chest/chest_ILD_CTD.md'
      - 'Lung as Filter': 'chest/chest_lungFilter^.md'
      - 'Nodules': 'chest/chest_lungNodules.md'
-     - 'PE': 'chest/chest_PE_clinicalLRs^.md'
+     - 'PE': 'chest/chest_PE_clinicalLRs.md'
      - 'Peripheral Angio': 'chest/chest_peripheralAngio_FF.md'
      - 'Pleural Effusion': 'chest/chest_pleural_effusion.md'
    - 'Abdomen':
