@@ -1,5 +1,3 @@
-## [EBR](EBR/readme.md)
-
 # Cauda Equina Syndrome
 
 ## Differentials 
@@ -19,18 +17,19 @@ CES-Incomplete | CESI | Subjective symptoms and objective signs of CES.  Volunta
 CES-Retention | CESR | Neurogenic retention of urine (Bladder paralysed and insensate) | Often paralysed, insensate bladder & bowel. Often need catheter and manual evacuation. No/reduced sexual function.  | 
 
 Todd[^1] points out that a lot of S+S in the guidelines are actually signs of irreversible CES (White flags not Red Flags)  
-Draws clear lines of operate before there are signs. 
-- Definite red flags
-  - Bilateral Radiculopathy.
-  - Progressive neuro in legs. 
-- Red flag or White flag 
-  - Impaired perianal sensation 
-  - Impaired anal tone 
-  - Non-spec urinary disturbance 
-- White Flag 
-  - Urinary retention or incontinence 
-  - Faecal incontinence. 
-  - Perineal sensation. 
+Draws clear lines of operate before there are signs.   
+
+    - Definite red flags  
+        - Bilateral Radiculopathy.  
+        - Progressive neuro in legs.   
+    - Red flag or White flag   
+        - Impaired perianal sensation   
+        - Impaired anal tone   
+        - Non-spec urinary disturbance   
+    - White Flag   
+        - Urinary retention or incontinence   
+        - Faecal incontinence.   
+        - Perineal sensation.   
 
 But states '48-93%' of CESR can show improvement post op with some evidence for surgery within 12-72 hours.  
 Very hawkish about doing lots of MR:

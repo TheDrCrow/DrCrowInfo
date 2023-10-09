@@ -1,11 +1,5 @@
 # Colitis 
 
-1. [Colitis](#colitis)
-	1. [Acute Colitis](#acute-colitis)
-		1. [Guidance](#guidance)
-			1. [NICE: Ulcerative colitis: NG130. 2019 [^1](#nice-ulcerative-colitis-ng130-2019-1)
-	2. [Chronic Colitis](#chronic-colitis)
-
 ## Acute Colitis 
 
 ### Guidance 

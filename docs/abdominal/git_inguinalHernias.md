@@ -40,10 +40,10 @@ DEFN: Midline & Lateral but not umbilical.
 
 - *Epigastric* = Above umbilicus in linea alba.
 - *Hypogastric* = Below umbilicus in linea alba. 
-PATH: 
-- Tend not to get better and progress.
-- Congenital diastasis & acquired factors including obesity, trauma. 
-Rx: For any symptomatic one then surgery.  
-Debate about asymptomatic.
+PATH:   
+- Tend not to get better and progress.  
+- Congenital diastasis & acquired factors including obesity, trauma.   
+Rx: For any symptomatic one then surgery.    
+Debate about asymptomatic.  
 
 [^Kwee2018]: Kwee RM, Kwee TC. Ultrasonography in diagnosing clinically occult groin hernia: systematic review and meta-analysis. Eur Radiol. 2018;28(11):4550-4560. doi:10.1007/s00330-018-5489-9

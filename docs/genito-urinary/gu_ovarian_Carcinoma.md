@@ -1,5 +1,3 @@
-## [EBR](../README.md)
-
 # Ovaries & Ovarian Carcinoma
 
 ## Lexicon 

@@ -1,5 +1,3 @@
-## [EBR](../README.md) 
-
 # Pleural Effusions and Disease.
 
 ## Malignant pleural Effusion and CT 

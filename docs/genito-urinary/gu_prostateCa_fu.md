@@ -7,20 +7,21 @@ Has been a group using RAND system to develop consensus about how to do F/U's:
 
 However I cannot download the actual paper just the abstract.
 
- And is summarised in this table: [^Giganti2020]
-| PRECISE SCORE | Assesment of Likelihood of radiological progression                                     |
-|---------------|-----------------------------------------------------------------------------------------|
-| 1             | Resolution of previous features suspicious on MRI                                       |
-| 2             | Reduction in volume and/or conspicuity of features suspicious for prostate cancer       |
-| 3             | Stable MRI appearance: no new focal/diffuse lesions                                     |
-| 4             | Increase in size and/or conspicuity of features suspicious for prostate cancer          |
-| 5             | Definite radiologic stage progression (ECE, SV involvement, LN involvement, metastasis) |
+ And is summarised in this table: [^Giganti2020]  
+
+| PRECISE SCORE | Asssesment of Likelihood of radiological progression |
+|---|----|
+| 1 | Resolution of previous features suspicious on MRI |
+| 2 | Reduction in volume and/or conspicuity of features suspicious for prostate cancer |
+| 3 | Stable MRI appearance: no new focal/diffuse lesions |
+| 4 | Increase in size and/or conspicuity of features suspicious for prostate cancer |
+| 5 | Definite radiologic stage progression (ECE, SV involvement, LN involvement, metastasis) |
 
  There is some reference to rebiopsy all >= 4. 
 
- Make several points:
- - No agreement which is best way to measure a lesion out of any.
- - 'Radiological progression' is a new and poorly defined construct as
+ Make several points:  
+ - No agreement which is best way to measure a lesion out of any.  
+ - 'Radiological progression' is a new and poorly defined construct as  
   >  there are yet no volume or diameter thresholds that allow us to reliably distinguish between expected interscan variability (which can be considerable [21]) and true progression
 
 

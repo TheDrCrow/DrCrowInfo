@@ -546,39 +546,38 @@ Normally most patients are followed clnically carefully & regularly.
 
 ## Post-Treatment Complications.
 
-1) Osteoradionecrosis.
-	Radiology: 
-		- Sclerosis
-		- Cortical & Cancellous destruction.
-		- Sequestration.
-		- Path # 
-		- Soft tissue thickening
-		- Fistula formation. 
-		- Gd ++ so diff to diff from recurrence.
-			- FDG not helpful as ORN is +ve FDG.
-			- Mandible = if findings distal to primary site then likely to be ORN not Rec.
+1) Osteoradionecrosis.  
+	Radiology:   
+		-- Sclerosis  
+		-- Cortical & Cancellous destruction.  
+		-- Sequestration.  
+		-- Path #   
+		-- Soft tissue thickening  
+		-- Fistula formation.   
+		-- Gd ++ so diff to diff from recurrence.  
+			- FDG not helpful as ORN is +ve FDG.  
+			- Mandible = if findings distal to primary site then likely to be ORN not Rec.  
 
-2) Chondronecrosis.
-	Can be very similar to recurrence. 
-	Gas suggests necrosis not recurrence. 
+2) Chondronecrosis.  
+    -- Can be very similar to recurrence.   
+	-- Gas suggests necrosis not recurrence.   
 
-3) Radiotherapy - induced Fibrosis 
-	=> Dysfunction =>
-		Aspiration
-		Dysphagia due to stenosis. 
+3) Radiotherapy - induced Fibrosis    
+	=> Dysfunction =>   
+	    -- Aspiration  
+		-- Dysphagia due to stenosis.   
 
-4) Other Radiotherapy - related. 
-	- Arteriopathy
-	- WM / GM injury
-	- Necrosis
-	- Radiation induced myelopathy
-	- CN palsy.
-	- Salivary gland injury
-	- Radiation induced tumours inc SCC and Sarcoma. 
+4) Other Radiotherapy - related.   
+	-- Arteriopathy  
+	-- WM / GM injury  
+	-- Necrosis   
+	-- Radiation induced myelopathy  
+	-- CN palsy.  
+	-- Salivary gland injury  
+	-- Radiation induced tumours inc SCC and Sarcoma.   
 
 
 
 [^King_2021]:King A, Staging Head and Neck Cancer, at ICIS 2021. Online lecture. 
 [^Bhatia_2020]:Bhatia K,King A & Hermans R. Tumours of the Oral Cavity and Pharynx, in Husband & Resnick Imaging in Oncology 4th Edition. CRC Press 2020. 
 
-/home/nigel/Documents/GitHub/EBR/head_neck/h&n_Oral_Pharyx_Staging.md

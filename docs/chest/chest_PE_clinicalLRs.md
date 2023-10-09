@@ -25,7 +25,7 @@
 
 ## What about LR of the test itself. 
 
-### NPV of CTPA. Meta-Analysis. [VanDerHulle2017]
+### NPV of CTPA. Meta-Analysis. [^VanDerHulle2017]
 
 n= 6148 in 4 prospective studies. PE prevalence of 24%. 
 

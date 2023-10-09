@@ -1,24 +1,5 @@
 # Peripheral Angio.
 
-## Table of Contents
-- [Peripheral Angio.](#peripheral-angio)
-  - [Table of Contents](#table-of-contents)
-  - [- References](#--references)
-  - [**Anatomy, Procedure & Technical**](#anatomy-procedure--technical)
-  - [**Guidelines**](#guidelines)
-    - [NICE Peripheral Arterial Disease. CG147 2012, 2020 [^NICE2012]](#nice-peripheral-arterial-disease-cg147-2012-2020-nice2012)
-  - [**Clinical**](#clinical)
-  - [**Differentials**](#differentials)
-  - [**Radiological**](#radiological)
-  - [**How to Report**](#how-to-report)
-  - [**Papers**](#papers)
-  - [References](#references)
----
-
-## **Anatomy, Procedure & Technical**
-
----
-
 ## **Guidelines**
 
 ### NICE Peripheral Arterial Disease. CG147 2012, 2020 [^NICE2012]  
@@ -56,27 +37,4 @@ Angioplasty is only done if this has failed and a MRA/CTA at this time shows a s
 Needs an MDM decision.  
 Plan for revascularisation or amputation. 
 
-
 ---
-
-## **Clinical**
-
----
-
-## **Differentials**
-
----
-
-## **Radiological**
-
----
-
-## **How to Report** 
-
----
-
-## **Papers**
-
---- 
-
-## References
