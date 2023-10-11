@@ -10,7 +10,7 @@
 
 ## Diagnosis [^Gill_2021]
 
-![ILAE Diagnosis](/paed_neuro/Images/ILAE_Classification_Overview.png) 
+![ILAE Diagnosis](/paed_neuro/images/ILAE_Classification_Overview.png) 
 
 Defined as **"Recurrent, unprovoked seizures."** 
 Important to get diagnosis right clinically, as per the ILAE Guidelines.[^ILAE_2017]  

@@ -48,7 +48,7 @@ nav:
      - 'Pit & Pineal': 'paed_neuro/neuro_paed_Pit_Pineal.md'
      - 'Neurofibromatosis': 'paed_neuro/paed_neuro_neurofibromatosis.md'
      - 'Neck Lumps': 'paed_neuro/paed_neck_lumps.md'
-     - 'Scoliosis': ''
+     - 'Scoliosis': 'paed_neuro/neuro_paed_scoliosis.md'
    - 'Neuroradiology':
      - 'Confusion': 'neuro/neuro_Confusion_CT^.md'
      - 'Guillan-Barre Syndrome': 'neuro/neuro_GBS.md'
@@ -90,7 +90,7 @@ nav:
      - 'Spine Instability': 'msk/msk_spine_instability.md'
      - 'Spine Trauma': 'msk/msk_spine_trauma.md'
      - 'Spine Degen': 'msk/msk_spinedegen_FF.md'
-     - 'Spine Stenosis': ''
+     - 'Spine Stenosis': 'msk/spinal_stenosis.md'
      - 'Trauma': 'msk/trauma.md'
    - 'Onco': 
      - 'AML CT': 'onco/onco_AML_CT.md' 
@@ -110,6 +110,11 @@ nav:
    - 'Another': 'anotherpage.md'
 markdown_extensions:
   - footnotes
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
 plugins:
   - social
 extra:

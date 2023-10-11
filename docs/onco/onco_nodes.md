@@ -13,13 +13,13 @@
 ![Neck Node Levels](images/neck_nodes_levels.jpg)
 
 #### Definitions 
-**Level 1** *Submandibular & Submental*
- - Level 1A: Submental Nodes. Between anterior bellies of digastric M. 
- - Level 1B: Submandibular Nodes.  
+**Level 1** *Submandibular & Submental*  
+ - Level 1A: Submental Nodes. Between anterior bellies of digastric M.   
+ - Level 1B: Submandibular Nodes.    
 
-**Level 2** *Jugulodigastric*  
- - Level 2A: Anterior, medial, lateral, or posterior to IJV; if posterior to IJV, node must be inseparable from IJV; contains jugulodigastric nodal group. 
- - Level 2B: Posterior to the IJV and MUST have fat plane separating them.  
+**Level 2** *Jugulodigastric*    
+ - Level 2A: Anterior, medial, lateral, or posterior to IJV; if posterior to IJV, node must be inseparable from IJV; contains jugulodigastric nodal group.   
+ - Level 2B: Posterior to the IJV and MUST have fat plane separating them.    
 
 **Level 3** *Deep Cervical*  
 From Hyoid to the lower border of the Cricoid. 
@@ -50,14 +50,14 @@ This is used for staging lung cancers but is excessive for other tumours.
 
 Divides into 14 nodal stations and 7 Stations. 
 
-**Lymph node zones:**
- - Supraclavicular zone: Station 1
- - Upper zone (superior mediastinal): Stations 2, 3, and 4
- - Aortopulmonary zone: Stations 5 and 6
- - Subcarinal zone: Station 7
- - Lower zone (inferior mediastinal): Stations 8 and 9
- - Hilar and interlobar zone (pulmonary): Stations 10 and 11
- - Peripheral zone (pulmonary): Stations 12, 13, and 14
+**Lymph node zones:**  
+ - Supraclavicular zone: Station 1  
+ - Upper zone (superior mediastinal): Stations 2, 3, and 4  
+ - Aortopulmonary zone: Stations 5 and 6  
+ - Subcarinal zone: Station 7  
+ - Lower zone (inferior mediastinal): Stations 8 and 9  
+ - Hilar and interlobar zone (pulmonary): Stations 10 and 11  
+ - Peripheral zone (pulmonary): Stations 12, 13, and 14  
 
 
 For other carcinomas then use: 
@@ -70,10 +70,10 @@ For other carcinomas then use:
 6. Diaphragmatic Nodes 
 7. Paracardiac nodes
 
-> Chest Wall = Axillary, Supraclavicular, Internal Mammary & Posterior Intercostal.
-> Anterior Mediastinal = Prevascular & Para-aortic.
-> Paratracheal & Tracheobronchial = Paratracheal, Retrotracheal, Aortopulmonary, Azygos & Subcarinal.
-> Posterior Mediastinal = Para-oesophageal and pulmonary ligament.
+> Chest Wall = Axillary, Supraclavicular, Internal Mammary & Posterior Intercostal.  
+> Anterior Mediastinal = Prevascular & Para-aortic.  
+> Paratracheal & Tracheobronchial = Paratracheal, Retrotracheal, Aortopulmonary, Azygos & Subcarinal.  
+> Posterior Mediastinal = Para-oesophageal and pulmonary ligament.  
 
 In Lymphoma then use Nodal REGIONS. 
 
@@ -100,11 +100,12 @@ The internal iliacs are more challenging to be categorical about.
 
 ![Grays Image of Pelvic nodes](images/internal_iliac_nodes.jpg)
 
-But, I would say: [^Grays]   
- - Obturator nodes follow the anterior division of the Internal Iliacs. But Husband says it is medial chain of External Iliac
- - Hypogastric nodes follow the middle/posterior division of the Internal Iliacs 
-   - *and the internal iliacs are sometimes conglomorated with them*
- - Also there is the 3rd branch which is the gluteal.
+But, I would say: [^Grays]  
+
+- Obturator nodes follow the anterior division of the Internal Iliacs. But Husband says it is medial chain of External Iliac  
+- Hypogastric nodes follow the middle/posterior division of the Internal Iliacs   
+    - *and the internal iliacs are sometimes conglomorated with them*  
+- Also there is the 3rd branch which is the gluteal.  
 
 
 ---
@@ -135,7 +136,8 @@ But, I would say: [^Grays]
 
 ### Neck 
 
-*1-cm cutoff in largest axial diameter shows 88% sensitivity & 39% specificity, whereas 1.5-cm cutoff shows 56% sensitivity & 84% specificity for metastatic head & neck cancer* [^Vattoth]
+*1-cm cutoff in largest axial diameter shows 88% sensitivity & 39% specificity,   
+whereas 1.5-cm cutoff shows 56% sensitivity & 84% specificity for metastatic head & neck cancer* [^Vattoth]
 
 ## Drainage Pathway.[^Sahdev]
 
@@ -152,17 +154,17 @@ But, I would say: [^Grays]
 | Left Side Colonic | IMV | | 
 | Rectum | Mesorectal | Superior Rectal | 
 | | Occasional to pelvic side wall. | 
-| Testes | RIGHT: Right retroperitoneal LEFT: Left retroperitoneal at level of the renal vein | | 
+| Testes | RIGHT: Right retroperitoneal<br>LEFT: Left retroperitoneal at level of the renal vein | | 
 | Upper GI Malignancy | Hepatoduodenal, peripancreatic and aortocaval | |  
 | Kidneys | Ipsilateral Renal Vein | Para-aortic / paracaval nodes |
 | Lung | Ipsi hilar nodes | Mediastinal Nodes (esp Paratracheal + Tracheobronchial Nodes) |
 | Pleura | Nodes along chest wall (inc posterior intercostal, internal mammary, diaphrgamatic ) |
 | Breast | Axillary | Subpectoral & Supraclavicular | 
 
-> Upper GI = Gastric, pancreatic, liver, gallbladder and bile ducts.
-> Breast = Tumours tend to spread to one node first = "Sentinel" nodes.
-> GCT in testes are usually to abdomen in the first place, unless prior scrotal sugery, tumour in undescended testis, retrograde lymphatic spread secondary to bulky retroperitoneal disease or prior nodal dissection. 
-> Echelon Node = In testicular Ca is anterior to the iliopsoas. Uncommon. 
+> Upper GI = Gastric, pancreatic, liver, gallbladder and bile ducts.  
+> Breast = Tumours tend to spread to one node first = "Sentinel" nodes.  
+> GCT in testes are usually to abdomen in the first place, unless prior scrotal sugery, tumour in undescended testis, retrograde lymphatic spread secondary to bulky retroperitoneal disease or prior nodal dissection.   
+> Echelon Node = In testicular Ca is anterior to the iliopsoas. Uncommon.   
 
 ## Probability of Involvement 
 

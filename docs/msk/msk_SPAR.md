@@ -10,8 +10,8 @@ Divide Finding and changes into acute vs chronic and Spinal Changes and SIJ.
 
 | | Acute ('Inflammatory') | Chronic ('Structural') | 
 |:---|:---|:---|
-| Sacro-Iliac Joints | Bone Marrow Oedema | Fat Metaplasia,  Erosions,  Sclerosis,  Ankylosis |
-| Spine | Bone Marrow Oedema in bodies ('Spondylitis').   Bone Marrow Oedema in Facet, Costovertebral, Costotransverse joints ('Arthritis') | Fat Metaplasia,  Sclerosis,  Ankylosis.  | 
+| Sacro-Iliac Joints | Bone Marrow Oedema | Fat Metaplasia<br>Erosions<br>Sclerosis<br>Ankylosis |
+| Spine | Bone Marrow Oedema in bodies ('Spondylitis')<br>Bone Marrow Oedema in Facet, Costovertebral, Costotransverse joints ('Arthritis') | Fat Metaplasia<br>Sclerosis<br>Ankylosis.  | 
 
 
 ### Modality Gold Standards 
@@ -35,7 +35,7 @@ Divide Finding and changes into acute vs chronic and Spinal Changes and SIJ.
 | 0 | Normal |
 | 1 | Suspicious changes | 
 | 2 | Minimal abnormalities: Small localized areas with erosion or sclerosis, without alteration in the joint width |
-| 3 | Unequivocal abnormality: Moderate or advances sacroilitis with 1 or more signs of erosions, sclerosis, widening, joint space narrowing, or partial ankylosis. |
+| 3 | Unequivocal abnormality: Moderate or advanced sacroilitis with 1 or more signs of erosions, sclerosis, widening, joint space narrowing, or partial ankylosis. |
 | 4 | Severe changes: Total Ankylosis |
 
 > Modified New York Criteria : Diagnosis of AS based on Grade 2 changes bilaterally or Grade 3 or 4 unilaterally **with** specific clinical symptoms suggestive (ie Inflammatory sounding back pain / limitation in movement of spine.). This could mean a 7 to 10 year wait for a diagnosis.
@@ -57,8 +57,9 @@ Score each quadrant of each SIJ 0 to 3. Based on Bone marrow oedema on STIR
 
 |  | Grade 0 | Grade 1 | Grade 2 | Grade 3 | 
 |:---|:---|:---|:---|:---|
-Bone Marrow Oedema in each quadrant SIJ area | Absent | <33% | 33-66% | >66% | 
-> Thus Total score = (4 x 3) x 2 = 0 to 24.
+Bone Marrow Oedema in each quadrant SIJ area | Absent | <33% | 33-66% | >66% |   
+
+> Thus Total score = (4 x 3) x 2 = 0 to 24.  
 > Note this system avoids conversations about erosions yes or no as a measure of activity or soft tissue change.
 
 #### (Chronic) Structural Sacroiliac joint changes.     
@@ -72,8 +73,9 @@ Erosions per quadrant | Absent | Minor (1 or 2) | Moderate (3 to 5) | Multiple (
 Fatty Bone Marrow Deposition (FMD) per quadrant | Absent | Present |  
 Sclerosis per joint | Absent | Present |
 Ankylosis | Absent | Present |
-> Thus Total score = ((4 x 3) x 2) + ((4 x 1) x 2) + 1 + 1 = 0 to 64.  
-> Which is a dog's breakfast and not at all rational.
+
+> Thus Total score = ((4 x 3) x 2) + ((4 x 1) x 2) + 1 + 1 = 0 to 64.    
+> Which is a dog's breakfast and not at all rational.  
 > So suggest Jackdaw should use vague total measure of each joint but explicitly stating each of the criteria.  
 
 ### Spine 
@@ -82,11 +84,13 @@ Ankylosis | Absent | Present |
 
 Several scoring systems mostly focussed on hyperproliferative aspects in AS and PsA.  
 Most use laterals of the Lumbar spine. Some add on Hips or Thoracic spine or AP views. 
-Tend to measure using 0-3 scores looking at: 
-1. Erosions
-2. Squaring 
-3. Sclerosis 
-4. Syndesmophytes at anterior vertebral edges. 
+Tend to measure using 0-3 scores looking at:  
+
+1. Erosions  
+2. Squaring   
+3. Sclerosis   
+4. Syndesmophytes at anterior vertebral edges.    
+
 > Though others will add in posterior edge etc  
 
 #### MRI  
@@ -106,7 +110,8 @@ Use **Discovertebral Unit (DVU)** = Bottom 1/2 of vertebral body + Disc + Upper 
 |  | Grade 0 | Grade 1 | Grade 2 | Grade 3 | 
 |:---|:---|:---|:---|:---|
 Bone Marrow Oedema in DVU area. | Absent | <25% | 25-50% | >50% |  
-Bone Marrow Oedema in Posterior Segment per DVU | Absent | Minor | Severe |
+Bone Marrow Oedema in Posterior Segment per DVU | Absent | Minor | Severe |  
+
 > Might just do 0-3 for anterior bodies but only mention if there is stuff in the posterior parts. 
 
 
@@ -116,11 +121,14 @@ Several systems but little in way of usage as plain films are still better.
 And can be complicated with ASspiMRI-c producing a scale from 0 to 138. 
 
 But, they still concentrate on:  
+
 1. Fat metaplasia (FMD)
 1. Erosion 
 1. Syndesmophytes
 1. Ankylosis 
-> and some include: 
+
+> and some include:  
+
 1. Sclerosis
 1. Squaring off
 
@@ -138,20 +146,23 @@ Presentation is more with peripheral arthritis and enthesitis of pelvis and leg 
 
 ### Protocol for SIJ MRI.  
 
-Lots of protocols out there (but for adults):
- * ASAS 2009 = Semicoronal T1/STIR.
- * ASAS-SPARTAN 2021. 
+Lots of protocols out there (but for adults):  
+
+* ASAS 2009 = Semicoronal T1/STIR.
+* ASAS-SPARTAN 2021. 
 
 But for children there is the: ESSR-ESPR paper for SIitis in JIA[^Hemke2020]
 
 [^Hemke2020]:Hemke R, Herregods N, Jaremko JL et al (2020) Imaging assessment of children presenting with suspected or known juvenile idiopathic arthritis: ESSR-ESPR points to consider. Eur Radiol 30:5237–5249
 
-This was: 
- * Semicoronal T1 / STIR ( or fat suppressed T2 )
- * Axial STIR ( or fat suppressed T2 )
- * and optional fat sat T1 post Gd semicoronal and axial.  
+This was:   
 
-I think it should be: 
+* Semicoronal T1 / STIR ( or fat suppressed T2 )  
+* Axial STIR ( or fat suppressed T2 )  
+* and optional fat sat T1 post Gd semicoronal and axial.    
+
+I think it should be:   
+
 1. Semicoronal STIR 
 1. Semicoronal T1 
 1. Ax STIR of the whole pelvis ( to look at the hips and enthesitis ).
@@ -180,7 +191,8 @@ Seen generally later, on semicoronal T1 sequences.
 Are: Erosions, sclerosis, fat lesions (metaplasia), backfill(?) and ankylosis.  
 Seen less often in children. 
 
-**Definitions from JAMRIS-SIJ Scoring System. (JIA working group in OMERACT)**  
+**Definitions from JAMRIS-SIJ Scoring System. (JIA working group in OMERACT)**   
+
 | Features | Definitions |
 |---|---|
 | | **Active Inflammation** | 

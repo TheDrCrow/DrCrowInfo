@@ -50,15 +50,16 @@ Roots L1 to S1 are the legs and do not produce the clinical syndrome of 'CES'.
 
 Recommend: as a practical definition. 
 > Cauda equina syndrome is a clinical diagnosis resulting from dysfunction of one or more of the sacral nerve roots S2 and below. One or more of the following symptoms or signs must be present:  
-> - Bladder and/or bowel dysfunction. 
-> - Reduced sensation in the saddle area. 
-> - Sexual dysfunction. 
-> Back and leg pain, and lower limb motor or sensory changes are often present but are not essential to the diagnosis.  
-> Nerve root compression is the commonest cause and MRI scanning is usually needed for confirmation.  
+> - Bladder and/or bowel dysfunction.   
+> - Reduced sensation in the saddle area.   
+> - Sexual dysfunction.   
+> Back and leg pain, and lower limb motor or sensory changes are often present but are not essential to the diagnosis.    
+> Nerve root compression is the commonest cause and MRI scanning is usually needed for confirmation.    
 
 **Other Classifications**  
 
-By presentation. *Tandon & Sankaran*
+By presentation. *Tandon & Sankaran*  
+
 | Type | Description | Notes |
 |:---|:---|:---|
 Type 1 | Rapid onset of CES symptoms with no past history of back problems | Rare in Litigation.
@@ -67,7 +68,7 @@ Type 3 | Longstanding back problems and gradually progressive CES often with spi
 
 Multifactorial Classification. *Shi et al* 
 
-Group | Name | Description 
+|Group | Name | Description |
 |:---|:---|:---|
 1 | Preclinical | LBP + only bulbocavernosus reflex & ischiocavernosus reflex abnormalities. NO typical symptoms of CES. 
 2 | Early | Bilateral Sciatica + saddle sensory disturbance & numbness. 
@@ -85,7 +86,7 @@ Not really used - unfortunately - but raises the idea that bulbocavernosus and i
 Comprehensive Classification of CES *Gleave & Macfarlane 2002. Todd 2018*
 The recommended one. Surprise!
 
-Name | Abbreviation | Definition 
+Name | Abbreviation | Definition |
 |:---|:---|:---|
 Suspected CES | CESS | Bilateral sciatica or motor / sensory loss in legs BUT no bladder/bowel/genital/perineal symptoms. **OR**<br>Known large disc herniation on earlier MRI (='Radiological CESS')
 Early CES | CESE | Symptoms only! Some change in perineal sensation or micturition freq BUT normal bladder, bowel & sexual function. a.k.a. 'Symptom-only CES'
@@ -100,18 +101,18 @@ Complete CES | CESC | Insensate bladder with overflow incontinence, no perineal,
 
 The literature is more mixed than is apparent.  
 
-**Ahad et al**[^4] looked at RCR clinical criteria for ?CES. 
+**Ahad et al**[^4] looked at RCR clinical criteria for ?CES.   
 - Conducted in Ninewells and was **retrospective** and depended on review of the notes. Mean Time to Delay = 149hrs!! The ones who were questionable had OP scans.   
-- Retrospectively looked at consecutive patients who 'warranted urgent MRI'. n=79. Age mean ~ 55y
-- MR was conducted in 62. Only 33% done in <24h. Only 6% were CES positive and underwent decompression. But 1 was missed and only detected on an OP scan 2w post-admission.  
-- No clinical features that predicted the presence / absence of a surgical cause of CES.  
-- But 3% = Discitis. 4% = Malignancy ( only 1 of 3, known about )  
+- Consecutive patients who 'warranted urgent MRI'. n=79. Age mean ~ 55y  
+- MR was conducted in 62. Only 33% done in <24h. Only 6% were CES positive and underwent decompression. But 1 was missed and only detected on an OP scan 2w post-admission.    
+- No clinical features that predicted the presence / absence of a surgical cause of CES.    
+- But 3% = Discitis. 4% = Malignancy ( only 1 of 3, known about )    
 
 And  
 
 **Fairbank et al**[^6] in a 2011 Lit review  
 - Only found 4 studies of adequate quality and all under 100 patients referred for ? CES.  
-Yields on MRI vary from 14 to 48%. 
+- Yields on MRI vary from 14 to 48%. 
 <br>
 - No symptom or sign has adequate performance to rule in/out CES.
 - But also say that more research is likely to alter this finding and the clinical importance of these findings. 
@@ -119,13 +120,13 @@ Yields on MRI vary from 14 to 48%.
 
 On the Other Hand...  
   
-**Zusman et al**[^5] says CES is entirely predictable. But..
-- 10y study to 2017 based in Academic Tertiary centre in Portland who had an MRI & Ortho consult.
+**Zusman et al**[^5] says CES is entirely predictable. But..  
+- 10y study to 2017 based in Academic Tertiary centre in Portland who had an MRI & Ortho consult.  
 - But, Lumbar MRI from ED = 2751, only n = 509 with Ortho consult, then excluded those **without** bladder or bowel complaint which could have included CESS etc. Then, excluded 38 cos of trauma / tumour.   
-- So, only n= 142. And 10 had 'CES diagnosis from MRI'.  
-  - 90% of CES positive = Disc Herniation. 48% of CES Negative.  
+- So, only n= 142. And 10 had 'CES diagnosis from MRI'.    
+  - 90% of CES positive = Disc Herniation. 48% of CES Negative.    
 
-Finding | Sensitivity | Specificity | PPV | NPV 
+Finding | Sensitivity | Specificity | PPV | NPV | 
 |:---|:---|:---|:---|:---|
 Rectal Tone | 80 | 86 | 31 | 98  
 Perianal Sensation | 60 | 68 | 13 | 96  
@@ -142,7 +143,7 @@ Post Void  >300ml | 80 | 59 | 21 | 96
 - Assessed Clinical, psychiatric, functional disorders and radiological features.   
 n= 276. Put the patients into 3 groups defined by the MR findings.   
 
-Group | Age | Sex | Result | Functional Disorders | Functional Neuro | Psychiatric Dx 
+Group | Age | Sex | Result | Functional Disorders | Functional Neuro | Psychiatric Dx |
 |:---|:---|:---|:---|:---|:---|:---|
 Scan +ve<br>n=78 | 48y | 56% Female | 91% Surgery | 9% | 0% | Depression = 22%<br>Anxiety = 18%<br>PD = 10%  
 Scan -ve but root compression<br>n=87 | 43y | 68% Female | 16% Surgery | 30% | 11% | Depression = 39%<br>Anxiety = 30%<br>PD = 24%  
@@ -151,15 +152,16 @@ Scan -ve including roots<br>n=104 | 42y | 70% Female | 2% Surgery | 37% | 12% | 
 > So presence of Functional disorder co-morbidity, Functional neuro disorder and psychiatric diagnosis were seen at significantly different rates. 
 
 - Many clinical features assessed but here limited by retrospective and non-systematic assessment so incomplete data sets but the VAST majority are **non-significant** between groups including: 
-  - Bladder Incontinence or Urgency/Frequency/Hesitancy 
-  - Bladder Retention & reduced awareness & PVR !
-  - Bowel symptoms including Incontinence, reduced awareness & constipation. 
-  - Reduced anal tone on DRE.
-  - Change in sexual function. 
-  - Unilateral sciatica. Bilateral and whole leg numbness.  
+    - Bladder Incontinence or Urgency/Frequency/Hesitancy 
+    - Bladder Retention & reduced awareness & PVR !
+    - Bowel symptoms including Incontinence, reduced awareness & constipation. 
+    - Reduced anal tone on DRE.
+    - Change in sexual function. 
+    - Unilateral sciatica. Bilateral and whole leg numbness.  
 
-- The few that ARE **significant** are: 
-Feature | Scan +ve Group | Scan -ve. Root Compression | Scan -ve. No Root | P value 
+- The few that ARE **significant** are:  
+
+Feature | Scan +ve Group | Scan -ve.<br> Root Compression | Scan -ve.<br> No Root Compression| P value |
 |:---|:---|:---|:---|:---| 
 'Mixed' urinary problems | 0% | 3% | 11% | 0.01  
 No urinary symptoms | 28% | 17% | 9% | 0.0005
@@ -169,9 +171,9 @@ Saddle Numbness | 64% | 54% | 52% | 0.04
 
 - State pain is well known as the trigger for functional neuro disorders. 
 - Functional disorders are increasingly diagnosed positively. 
-  - ie Hoovers sign = Weakness of hip extension, which improves with contralateral hip flexion.  
-  - Rx: Tailored physio -> Significant and good improvement. 
-  - PathoPhys: Bayesian 'top-down' expectation and abnormal self-directed attention overriding the normal sensory and motor pathways. 
+    - ie Hoovers sign = Weakness of hip extension, which improves with contralateral hip flexion.  
+    - Rx: Tailored physio -> Significant and good improvement. 
+- PathoPhys: Bayesian 'top-down' expectation and abnormal self-directed attention overriding the normal sensory and motor pathways. 
 
 - The non-significance of urinary symptoms between the groups is counter-intuitive. 
   - Suggest several hypotheses for this. Including Pain -> sympathetic hyperactivity and increased inhibitory signals via the hypogastric & pelvic nerves. Thus, overriding normal relaxation during micturition. Or, the pain -> panic -> exacerbation of underlying dysfunction, especially women. Or, lots of drug interference especially the analgesics for neuropathic pain and opiates -> constipation.  
@@ -179,12 +181,12 @@ Saddle Numbness | 64% | 54% | 52% | 0.04
 They follow up these findings in later papers including **Hoeritzauer et al**[^9]  
 
 - Prospective paper (published in Neurology, so not available)
-- Says the same things though with scan -ve ones more likely to have
-  - Worst pain ever 
-  - Panic symptoms at presentation 
-  - More positive features of functional neuro disorders. 
-  - Less likely to have reduced bilateral ankle jerks. 
-- No difference in terms of reduced anal tone nor urinary retention. 
+- Says the same things though with scan -ve ones more likely to have  
+    - Worst pain ever   
+    - Panic symptoms at presentation   
+    - More positive features of functional neuro disorders.   
+    - Less likely to have reduced bilateral ankle jerks.   
+- No difference in terms of reduced anal tone nor urinary retention.   
 
 Also this paper which is more a review about Functional Neuro in the CES population. 
 In it they state lots about the Scan -ve CES and the complex functional neurology behind it. 

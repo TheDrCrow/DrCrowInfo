@@ -36,7 +36,7 @@ or, >5cm in AP dimension.
 > Designed for CT but used in MR.   
 
 ### Surgery & Post-Op appearances.
-1. Subacromial Acromial Decompression ( with subacromial bursectomy and acromioplasty ) 
+1. Subacromial Acromial Decompression ( with subacromial bursectomy and acromioplasty )   
  -- Shave Undersurface of Acromion.  
  -- Resect part of anterolateral acromion.   
  -- Resect inferior Osteophytes from ACJ.    

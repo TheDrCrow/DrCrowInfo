@@ -1,27 +1,4 @@
-# FF_Myeloma
-
-## Table of Contents
-- [FF_Myeloma](#ff_myeloma)
-  - [Table of Contents](#table-of-contents)
-  - [- References](#--references)
-  - [**Anatomy, Procedure & Technical**](#anatomy-procedure--technical)
-  - [**Guidelines**](#guidelines)
-    - [NICE Guidelines 2016 [^NICE2016]](#nice-guidelines-2016-nice2016)
-      - [***1) Imaging for Suspected Myeloma***](#1-imaging-for-suspected-myeloma)
-      - [**2) Imaging later in Disease**](#2-imaging-later-in-disease)
-  - [**Clinical**](#clinical)
-    - [What does Diffusion Weighted whole body imaging do in Myeloma?](#what-does-diffusion-weighted-whole-body-imaging-do-in-myeloma)
-  - [**Differentials**](#differentials)
-  - [**Radiological**](#radiological)
-    - [ADC Values [^Messiou2019]](#adc-values-messiou2019)
-  - [**How to Report**](#how-to-report)
-  - [**Papers**](#papers)
-  - [References](#references)
----
-
-## **Anatomy, Procedure & Technical**
-
----
+# Myeloma
 
 ## **Guidelines**
 
@@ -78,16 +55,15 @@
 But p268 states 
 > "no studies were identified that investigated follow-up protocols for patients with myeloma so no evidence was found on any of these outcomes."   [^NICE2016]
 
-The write-up points out the paucity of data here then discusses that SS are no good really but then comes up with the above recommendations which is odd as in the same secton they quote the papers they use in a table and in it:
-  - 3 x studies of WB-MRI in relapse / PD, each with n=30  patients
-  - 1 x study of WB CT in detecting relapse / PD with n=439
-  - CT S/S = 0.995 / 0.96 whilst WB-MRI = 0.82 / 0.62 
-  - **No** mention of what it is trying to do, given the definition of PD/relapse is mostly non-imaging.   
+The write-up points out the paucity of data here then discusses that SS are no good really but then comes up with the above recommendations which is odd as in the same secton they quote the papers they use in a table and in it:  
+  - 3 x studies of WB-MRI in relapse / PD, each with n=30  patients  
+  - 1 x study of WB CT in detecting relapse / PD with n=439  
+  - CT S/S = 0.995 / 0.96 whilst WB-MRI = 0.82 / 0.62   
+  - **No** mention of what it is trying to do, given the definition of PD/relapse is mostly non-imaging.    
 
 > "*Whilst there were potential cost implications of making recommendations in this area, other questions in the guideline were agreed as higher priorities for economic evaluation.*"  
 
-(BJH Guidelines on Imaging in Myeloma)[https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/bjh.14827]
-
+[BJH Guidelines on Imaging in Myeloma](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/bjh.14827)
 
 ---
 
@@ -106,11 +82,7 @@ The write-up points out the paucity of data here then discusses that SS are no g
 For each of the above one would have to demonstrate that MR is BETTER than standard techniques and that the additional resource is beneficial. 
 This would include CT scan as this is cheaper and more likely to be 
 
----
-
-## **Differentials**
-
----
+--- 
 
 ## **Radiological**
 
@@ -120,11 +92,7 @@ Not yet part of the standard. But,
 Normal bone marrow usually BELOW 600-700 um2/sec.  
 Viable tumour usually ABOVE 700 um2/sec UPTO 1400.   
 
----
-
-## **How to Report** 
-
----
+--- 
 
 ## **Papers**
 

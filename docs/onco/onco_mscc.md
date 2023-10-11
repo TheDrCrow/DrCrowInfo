@@ -1,9 +1,3 @@
---- 
-
-title = "MSCC"
-
----
-
 # Metastatic Cord Compression.
 
 ### Epidural Spinal Cord Compression Scale
