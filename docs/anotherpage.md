@@ -37,6 +37,13 @@ graph LR
   B ---->|Between line comment| E[Yay!];
 ```
 
+##### Another Top to Bottom Graph.
+
 ```mermaid
-graph UD 
+graph TB
+  A[Square Box A] --> B[Square Box B]
+  A ---|No Arrow| C((Sphere C))
+  A ==>|Thick Arrow| D([Lozenge])
 ```
+
+##### And a lot more on the Mermaid JS website docs.
