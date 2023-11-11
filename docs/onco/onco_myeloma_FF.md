@@ -2,6 +2,48 @@
 
 ## **Guidelines**
 
+### International Myeloma Working Group Consensus Recommendations on Imaging in monoclonal plasma cell disorders 2019 [^IMWG2019]
+[^IMWG2019]: Hillengass J et al. IMWG consensus recommendation on imaging in monoclonal... Lancet Oncol 2019; 20: e302–12 
+
+#### Recommendations on the reporting of imaging results in monoclonal plasma disorders
+
+##### First Diagnosis 
+A radiological report on whole body imaging in patients with mpcd should include: 
+
+- Infiltration and bone destruction pattern
+    - Minimal (normal appearing)
+    - Focal lesions
+    - Diffuse infiltration and bone destruction
+    - Mixed (focal lesions on diffuse background)
+- Absolute number of focal lesions 
+    - For WBMRI: 0, 1, 2-7 or >7 
+    - For PET or WBCT: 0, 1-3 or >3 
+- Number of fractures
+    - New vs old 
+    - Location 
+    - Likelihood of malignant vs benign cause.
+- Infiltration of long bones
+- Evidence of surgical procedures in the skeletal system
+- Incidental findings
+
+#### In Remission 
+Differentiate these findings with regards to response to therapy in imaging (guidelinespapers for WBCT, WBMRI and PET/CT)
+
+- Response 
+    - Normalisation of bone marrow signal in previously affected areas. 
+    - Decrease in number and size of focal lesions.
+    - Resolution of severely infiltrated bone marrow infiltrate into focal lesions.
+    - Decrease in number and size of soft tissue tumours (paramedullary and extramedullary)
+- No change 
+- Progression 
+    - Worsening of the diffuse bone marrow signal or new appearance of infiltration in previously unaffected areas. 
+    - Increase in number and size of focal lesions. 
+    - Merging of focal lesions into severely infiltrated bone marrow.
+    - Increase in the size or number of soft tissue tumours. (paramedullary and extramedullary)
+
+**Specifics for MRI**  
+Cystic or liquid transformation of focal lesions after therapy. 
+
 ### NICE Guidelines 2016 [^NICE2016]  
 
 #### ***1) Imaging for Suspected Myeloma***  
