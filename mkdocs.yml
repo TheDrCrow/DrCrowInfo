@@ -103,11 +103,14 @@ nav:
      - 'MSCC': 'onco/onco_mscc.md' 
      - 'Neutropenic Sepsis': 'onco/onco_neutropenic_sepsis.md' 
      - 'Paraneoplastic Syndromes': 'onco/onco_paraneoplastic.md' 
+     - 'Risk of Malignancy': 'onco/Risk_of_malignancy.md' 
    - 'General': 
      - 'Confusion': 'general/general_confusion_ix.md'
      - 'Malignancy': 'general/general_malignancy.md'
      - 'Nightsweats': 'general/general_nightsweats.md'
-   - 'Another': 'anotherpage.md'
+   - 'Other Stuff': 
+     - 'Style': 'anotherpage.md'
+     - 'To do': 'TODO.md'
 markdown_extensions:
   - footnotes
   - pymdownx.superfences:

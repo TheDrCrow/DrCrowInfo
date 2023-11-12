@@ -7,7 +7,7 @@
 
 #### Recommendations on the reporting of imaging results in monoclonal plasma disorders
 
-##### First Diagnosis 
+#### First Diagnosis 
 A radiological report on whole body imaging in patients with mpcd should include: 
 
 - Infiltration and bone destruction pattern
@@ -43,6 +43,39 @@ Differentiate these findings with regards to response to therapy in imaging (gui
 
 **Specifics for MRI**  
 Cystic or liquid transformation of focal lesions after therapy. 
+
+#### MGUS 
+
+![MGUS pathway for High Risk](images/mgus.png) 
+
+MGUS is 5% of 70 yr old.  
+**Risk Factors for Progression to MM ( Southeastern Minnesota Cohort ) in non-IgM paraproteinaemia.**
+*IgM mostly develops into Waldenstroms so does not need imaging* 
+
+1. M-protein of >= 1.5g/dl 
+2. Abnormal free light chain ratio.  
+
+20yr progression to MM risk is 7% with zero risks, 20% with one risk factor and 30% with two factors.  
+MRI in this group has approx 10% yield but no histo confirmation in studies thus false-positive risk.  
+Recommend CT first especially. MRI for equivocal CT or non-secretors. No follow up imaging unless symptoms or serological markers suggest MM. 
+
+#### Solitary Plasmacytoma
+
+![Solitary Plasmacytoma](images/solitary_plasmacytoma.png) 
+
+#### Smouldering Multiple Myeloma
+
+![Smouldering Myeloma](images/smouldering_myeloma.png) 
+
+#### Multiple Myeloma
+
+![Myeloma at First Diagnosis](images/mm_first_diagnosis.png) 
+
+![Myeloma Treatment Response](images/mm_treatment_response.png) 
+
+![Myeloma Relapse](images/mm_relapse.png) 
+
+---
 
 ### NICE Guidelines 2016 [^NICE2016]  
 
