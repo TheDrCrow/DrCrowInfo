@@ -44,12 +44,13 @@ Differentiate these findings with regards to response to therapy in imaging (gui
 **Specifics for MRI**  
 Cystic or liquid transformation of focal lesions after therapy. 
 
+#### Pathways 
 #### MGUS 
 
 ![MGUS pathway for High Risk](images/mgus.png) 
 
 MGUS is 5% of 70 yr old.  
-**Risk Factors for Progression to MM ( Southeastern Minnesota Cohort ) in non-IgM paraproteinaemia.**
+**Risk Factors for Progression to MM ( Southeastern Minnesota Cohort ) in non-IgM paraproteinaemia.**  
 *IgM mostly develops into Waldenstroms so does not need imaging* 
 
 1. M-protein of >= 1.5g/dl 
@@ -57,19 +58,46 @@ MGUS is 5% of 70 yr old.
 
 20yr progression to MM risk is 7% with zero risks, 20% with one risk factor and 30% with two factors.  
 MRI in this group has approx 10% yield but no histo confirmation in studies thus false-positive risk.  
-Recommend CT first especially. MRI for equivocal CT or non-secretors. No follow up imaging unless symptoms or serological markers suggest MM. 
+**Recommend** CT first especially. MRI for equivocal CT or non-secretors. No follow up imaging unless symptoms or serological markers suggest MM. 
 
 #### Solitary Plasmacytoma
 
 ![Solitary Plasmacytoma](images/solitary_plasmacytoma.png) 
 
+2:1 Solitary bone lesion : Solitary extramedullary plasmacytoma   
+But, risk of progression to MM is 35% for bone lesion and only 7% for soft tissue.  
+
+Aim of Imaging is the presence of another lesion including diffuse infiltration of the bone marrow.
+
+**Recommend** WBMRI if single bone lesion - especially for diffuse infiltration - or PET-CT if a solitary plasmacytoma.  
+Repeat this yearly for 5ys as risk of progression is high in first 3 ys or so. After that do it based on clinical and biomarkers. 
+
 #### Smouldering Multiple Myeloma
 
 ![Smouldering Myeloma](images/smouldering_myeloma.png) 
 
+Volume of active disease in SMM is lower then in MM.  
+Thus, aim of imaging is to spot signs that this is really MM. Thus need Sensitivity
+
+Evidence base is from moderate sized studies showing **2 or more** lesions on MR (not needing to prove bone lysis) predicts progression. Now, myeloma defining events.  
+So, about 20% of MRIs will show 2 or more lesions and they have a 75% rate of progression to symptomatic disease.  
+PET-CT can also be used with comparable results.   
+Risk of progression decreases with time - suggesting a 'benign' cohort - thus after 5ys stop routine imaging follow up.
+
+**Recommend** WBCT is first line as there might be obvious disease. If that does not work then do WBMRI looking for the 2 lesions. If only one lesion then repeat yearly CT and MRI alternately looking for enlargement or increase in number. Otherwise do repeat MRI for 5 yrs.   
+
 #### Multiple Myeloma
 
 ![Myeloma at First Diagnosis](images/mm_first_diagnosis.png) 
+
+Some imaging features at diagnosis are prognostic for a bad outcome:  
+On Spinal MR = More than 7 focal lesions.
+On PET/CT = More than 3 lytic lesions AND/OR extramedullary disease  
+BUT, neither of these changed the management  
+
+**Recommend** Doing WBCT first line to assess for lytic lesions and osteoporosis.  
+If negative, do a WBMRI **only** if there are no other MDEs (Myeloma Defining Events). 
+
 
 ![Myeloma Treatment Response](images/mm_treatment_response.png) 
 
