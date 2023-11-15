@@ -1,13 +1,115 @@
 # Myeloma
 
-## **Guidelines**
+## Background
+
+**Multiple Myeloma** is defined as:  
+1. Clonal bone marrow plasma cells > 10% **or** Biopsy proven soft tissue or bony plasmacytoma.  
+**AND**    
+2. Original CRAB criteria **or** new MDEs / biomarkers.  
+
+> CRAB Criteria ( signs of end organ damage attributable to myeloma )  
+>> 1. Hypercalcaemia (>2.75)  
+> 2. Renal Insufficiency (eGFR < 40)   
+> 3. Anaemia (<10g/dl)   
+> 4. Bone Lesions. One or more lytic lesions on SS, CT or PET-CT. If <10% bone marrow cells then one lesion = solitary plasmacytoma with minimal bone marrow involvement. If 2 or more then it is MM. 
+
+
+> New Diagnostic Criteria ( very highly predictive of progression to organ damage, before the organ damage )  
+>> 1. 60%+ Clonal Plasma Cells on bone marrow. 
+> 2. Serum involved / uninvolved free light chain ratio of 100 or greater, provided the absolute level of the involved light chain is at least 100mg/L (a patient's involved free light chain either kappa or lambda is the one that is above the normal reference range; the uninvolved free light chain is the one that is typically in, or below, the normal range)
+> 3. More than one focal lesion on MRI that are > 5mm. 
+
+**Smouldering Multiple Myeloma** is defined as:    
+1. Serum monoclonal protein (IgG or IgA) ≥ 30g/L **or** urinary monoclonal protein ≥ 500mg per 24h **and/or** clonal bone marrow plasma cells 10-60%  
+**AND**    
+2. No myeloma defining events or amyloidosis.  
+
+**Solitary Plasmacytoma** is defined as:   
+
+
+
+## Guidelines
 
 ### International Myeloma Working Group Consensus Recommendations on Imaging in monoclonal plasma cell disorders 2019 [^IMWG2019]
 [^IMWG2019]: Hillengass J et al. IMWG consensus recommendation on imaging in monoclonal... Lancet Oncol 2019; 20: e302–12 
 
-#### Recommendations on the reporting of imaging results in monoclonal plasma disorders
+### Pathways 
+#### _MGUS_ 
 
-#### First Diagnosis 
+![MGUS pathway for High Risk](images/mgus.png) 
+
+MGUS is 5% of 70 yr old.  
+**Risk Factors for Progression to MM ( Southeastern Minnesota Cohort ) in non-IgM paraproteinaemia.**  
+*IgM mostly develops into Waldenstroms so does not need imaging* 
+
+1. M-protein of >= 1.5g/dl 
+2. Abnormal free light chain ratio.  
+
+20yr progression to MM risk is 7% with zero risks, 20% with one risk factor and 30% with two factors.  
+MRI in this group has approx 10% yield but no histo confirmation in studies thus false-positive risk.  
+
+> **Recommend** CT first especially. MRI for equivocal CT or non-secretors. No follow up imaging unless symptoms or serological markers suggest MM. 
+
+#### _Solitary Plasmacytoma_
+
+![Solitary Plasmacytoma](images/solitary_plasmacytoma.png) 
+
+2:1 Solitary bone lesion : Solitary extramedullary plasmacytoma   
+But, risk of progression to MM is 35% for bone lesion and only 7% for soft tissue.  
+
+Aim of Imaging is the presence of another lesion including diffuse infiltration of the bone marrow.
+
+> **Recommend** WBMRI if single bone lesion - especially for diffuse infiltration - or PET-CT if a solitary plasmacytoma.  
+> Repeat this yearly for 5ys as risk of progression is high in first 3 ys or so. After that do it based on clinical and biomarkers. 
+
+#### _Smouldering Multiple Myeloma_
+
+![Smouldering Myeloma](images/smouldering_myeloma.png) 
+
+Volume of active disease in SMM is lower then in MM.  
+Thus, aim of imaging is to spot signs that this is really MM. Thus need Sensitivity
+
+Evidence base is from moderate sized studies showing **2 or more** lesions on MR (not needing to prove bone lysis) predicts progression. Now, myeloma defining events.  
+So, about 20% of MRIs will show 2 or more lesions and they have a 75% rate of progression to symptomatic disease.  
+PET-CT can also be used with comparable results.   
+Risk of progression decreases with time - suggesting a 'benign' cohort - thus after 5ys stop routine imaging follow up.
+
+> **Recommend** WBCT is first line as there might be obvious disease. If that does not work then do WBMRI looking for the 2 lesions. If only one lesion then repeat yearly CT and MRI alternately looking for enlargement or increase in number. Otherwise do repeat MRI for 5 yrs.   
+
+NB: On PET-CT a positive lesion must be visible on the CT component. [^Husband2020]
+#### _Multiple Myeloma at Diagnosis_
+
+![Myeloma at First Diagnosis](images/mm_first_diagnosis.png) 
+
+Some imaging features at diagnosis are prognostic for a bad outcome:  
+On Spinal MR = More than 7 focal lesions.
+On PET/CT = More than 3 lytic lesions AND/OR extramedullary disease  
+BUT, neither of these changed the management  
+
+> **Recommend** Doing WBCT first line to assess for lytic lesions and osteoporosis.  
+> If negative, do a WBMRI **only** if there are no other MDEs (Myeloma Defining Events). 
+
+
+![Myeloma Treatment Response](images/mm_treatment_response.png) 
+
+Now integrates information from imaging into concept of CR or minimal residual disease-negative status.  
+Post treatment lesions on PET-CT, MRI Spine and WBMRI have negative prognostics even with normalised other markers.  
+= Relapse at 44 months if positive vs 88 months if negative. 
+
+More imaging also shows that positive lesions and lytics lesions can go negative very slowly post-treatment. Thus, need to integrate all data, so a PET positive lesion should be correlated with the CT part to demonstrate active lysis or other.
+
+> **Recommend** Depending on the availability of baseline examinations and initial results, either whole-body CT to provide a baseline bone status for comparison against potential future relapse, or PET/CT as part of response assessment, should be done. For patients with residual lesions
+detected by PET/CT, yearly follow-up is recommended because these patients have a high risk of an early progression.
+
+"_Treatment response is difficult on MR as there is a range of possible responses._" [^Husband2020] 
+
+#### _Multiple Myeloma. Suspected Relapse_ 
+
+![Myeloma Relapse](images/mm_relapse.png)
+
+### Reporting Structure Recommendations. 
+### First Diagnosis 
+
 A radiological report on whole body imaging in patients with mpcd should include: 
 
 - Infiltration and bone destruction pattern
@@ -26,7 +128,7 @@ A radiological report on whole body imaging in patients with mpcd should include
 - Evidence of surgical procedures in the skeletal system
 - Incidental findings
 
-#### In Remission 
+### In Remission 
 Differentiate these findings with regards to response to therapy in imaging (guidelinespapers for WBCT, WBMRI and PET/CT)
 
 - Response 
@@ -43,65 +145,6 @@ Differentiate these findings with regards to response to therapy in imaging (gui
 
 **Specifics for MRI**  
 Cystic or liquid transformation of focal lesions after therapy. 
-
-#### Pathways 
-#### MGUS 
-
-![MGUS pathway for High Risk](images/mgus.png) 
-
-MGUS is 5% of 70 yr old.  
-**Risk Factors for Progression to MM ( Southeastern Minnesota Cohort ) in non-IgM paraproteinaemia.**  
-*IgM mostly develops into Waldenstroms so does not need imaging* 
-
-1. M-protein of >= 1.5g/dl 
-2. Abnormal free light chain ratio.  
-
-20yr progression to MM risk is 7% with zero risks, 20% with one risk factor and 30% with two factors.  
-MRI in this group has approx 10% yield but no histo confirmation in studies thus false-positive risk.  
-**Recommend** CT first especially. MRI for equivocal CT or non-secretors. No follow up imaging unless symptoms or serological markers suggest MM. 
-
-#### Solitary Plasmacytoma
-
-![Solitary Plasmacytoma](images/solitary_plasmacytoma.png) 
-
-2:1 Solitary bone lesion : Solitary extramedullary plasmacytoma   
-But, risk of progression to MM is 35% for bone lesion and only 7% for soft tissue.  
-
-Aim of Imaging is the presence of another lesion including diffuse infiltration of the bone marrow.
-
-**Recommend** WBMRI if single bone lesion - especially for diffuse infiltration - or PET-CT if a solitary plasmacytoma.  
-Repeat this yearly for 5ys as risk of progression is high in first 3 ys or so. After that do it based on clinical and biomarkers. 
-
-#### Smouldering Multiple Myeloma
-
-![Smouldering Myeloma](images/smouldering_myeloma.png) 
-
-Volume of active disease in SMM is lower then in MM.  
-Thus, aim of imaging is to spot signs that this is really MM. Thus need Sensitivity
-
-Evidence base is from moderate sized studies showing **2 or more** lesions on MR (not needing to prove bone lysis) predicts progression. Now, myeloma defining events.  
-So, about 20% of MRIs will show 2 or more lesions and they have a 75% rate of progression to symptomatic disease.  
-PET-CT can also be used with comparable results.   
-Risk of progression decreases with time - suggesting a 'benign' cohort - thus after 5ys stop routine imaging follow up.
-
-**Recommend** WBCT is first line as there might be obvious disease. If that does not work then do WBMRI looking for the 2 lesions. If only one lesion then repeat yearly CT and MRI alternately looking for enlargement or increase in number. Otherwise do repeat MRI for 5 yrs.   
-
-#### Multiple Myeloma
-
-![Myeloma at First Diagnosis](images/mm_first_diagnosis.png) 
-
-Some imaging features at diagnosis are prognostic for a bad outcome:  
-On Spinal MR = More than 7 focal lesions.
-On PET/CT = More than 3 lytic lesions AND/OR extramedullary disease  
-BUT, neither of these changed the management  
-
-**Recommend** Doing WBCT first line to assess for lytic lesions and osteoporosis.  
-If negative, do a WBMRI **only** if there are no other MDEs (Myeloma Defining Events). 
-
-
-![Myeloma Treatment Response](images/mm_treatment_response.png) 
-
-![Myeloma Relapse](images/mm_relapse.png) 
 
 ---
 
@@ -214,6 +257,8 @@ Viable tumour usually ABOVE 700 um2/sec UPTO 1400.
 [^Goldschmidt2016]: Goldschmidt N, Zamir L, Poperno A, Kahan NR, Paltiel O. Presenting Signs of Multiple Myeloma and the Effect of Diagnostic Delay on the Prognosis. J Am Board Fam Med. 2016;29(6):702-709. doi:10.3122/jabfm.2016.06.150393
 
 [^Friese2009]: Friese C et al Leuk Lymphoma. 2009 March ; 50(3): 392–400. doi:10.1080/10428190902741471.
+
+[^Husband2020]: Vinnicombe S & Sahdev A. Husband & Reznek's Imaging in Oncology 4e. 
 
 --- 
 
