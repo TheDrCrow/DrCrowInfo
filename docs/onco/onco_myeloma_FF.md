@@ -2,6 +2,8 @@
 
 ## Background
 
+Myeloma is one of the plasma cell proliferative disorders, which are   
+
 **Multiple Myeloma** is defined as:  
 1. Clonal bone marrow plasma cells > 10% **or** Biopsy proven soft tissue or bony plasmacytoma.  
 **AND**    
@@ -19,14 +21,80 @@
 > 2. Serum involved / uninvolved free light chain ratio of 100 or greater, provided the absolute level of the involved light chain is at least 100mg/L (a patient's involved free light chain either kappa or lambda is the one that is above the normal reference range; the uninvolved free light chain is the one that is typically in, or below, the normal range)
 > 3. More than one focal lesion on MRI that are > 5mm. 
 
-**Smouldering Multiple Myeloma** is defined as:    
+**Smouldering Multiple Myeloma**:    
 1. Serum monoclonal protein (IgG or IgA) ≥ 30g/L **or** urinary monoclonal protein ≥ 500mg per 24h **and/or** clonal bone marrow plasma cells 10-60%  
-**AND**    
+*AND*    
 2. No myeloma defining events or amyloidosis.  
 
-**Solitary Plasmacytoma** is defined as:   
+**Solitary Plasmacytoma**:   
+1. Biopsy proven solitary lesion of bone or soft tissue with evidence of clonal plasma cells   
+*AND*  
+2. Normal bone marrow with no evidence of clonal plasma cells   
+*AND*  
+3. Absence of end-organ damage such as hypercalcemia, renal insufficiency, anemia, and bone lesions (CRAB) or amyloidosis that can be attributed to the plasma cell proliferative disorder. Including normal imaging (except for index lesion)  
 
+**Solitary Plasmacytoma with minimal marrow involvement**:    
+1. Biopsy proven solitary lesion of bone or soft tissue with evidence of clonal plasma cells   
+*AND*  
+2. Clonal bone marrow plasma cells < 10%.  
+*AND*  
+3. Absence of end-organ damage such as hypercalcemia, renal insufficiency, anemia, and bone lesions (CRAB) or amyloidosis that can be attributed to the plasma cell proliferative disorder. Including normal imaging (except for index lesion)  
 
+**Non-IgM monoclonal gammopathy of undetermined significance (MGUS):**  
+1. Serum monoclonal protein <30g/l   
+*AND*   
+2. Clonal Bone Marrow plasma cells <10%.   
+*AND*   
+3. Absence of end-organ damage such as hypercalcemia, renal insufficiency, anemia, and bone lesions (CRAB) or amyloidosis that can be attributed to the plasma cell proliferative disorder.  
+
+**IgM MGUS**   
+1. Serum IgM monoclonal protein <30g/l  
+*AND*  
+2. No evidence of anemia, constitutional symptoms, hyperviscosity, lymphadenopathy, hepatosplenomegaly, or other end-organ damage that can be attributed to the plasma cell proliferative disorder.  
+
+**Light Chain MGUS**  
+1. Abnormal FLC ratio (<0.26 or >1.65)  
+*AND*  
+2. Increased level of the appropriate free light chain (increased κ FLC in patients with ratio >1.65 and increased λ FLC in patients with ratio <0.26)  
+*AND*  
+3. No immunoglobulin heavy chain expression on immunofixation.  
+*AND*  
+4. Absence of end-organ damage such as hypercalcemia, renal insufficiency, anemia, and bone lesions (CRAB) or amyloidosis that can be attributed to the plasma cell proliferative disorder.   
+*AND*  
+5. Clonal bone marrow plasma cells <10%.  
+*AND*   
+6. Urinary monoclonal protein <500mg/24h.  
+
+**POEMS**  
+1. Polyneuropathy  
+*AND*   
+2. Monoclonal plasma cell proliferative disorder  
+*AND*   
+3. One or more of the Major criteria.  
+*AND*  
+4. One or more of the Minor criteria.   
+
+> Major Criteria 
+>> 1. Sclerotic bone lesions  
+> 2. Castleman's Disease  
+> 3. Elevated VEGFA  
+
+> Minor Criteria  
+>> 1. Organomegaly (splenomegaly, hepatomegaly, lymphadenopathy).  
+> 2. Extravascular fluid overload (effusions, ascites, oedema).  
+> 3. Endocrinopathy (adrenal, thyroid, pituitary, gonadal, parathyroid, pancreatic).  
+> 4. Skin Changes.   
+> 5. Papilloedema.  
+> 6. Thrombocytosis / Polycythaemia.  
+
+**Systemic AL Amyloidosis**  
+1. Presence of an amyloid-related systemic syndrome (e.g., renal, liver, heart, gastrointestinal tract, or peripheral nerve involvement)  
+*AND*   
+2. Positive amyloid staining by Congo red in any tissue (e.g., fat aspirate, bone marrow, or organ biopsy).  
+*AND*  
+3. Evidence that amyloid is light-chain-related established by direct examination of the amyloid using mass spectrometry-based proteomic analysis or immunoeletronmicroscopy.  
+*AND*  
+4. Evidence of a monoclonal plasma cell proliferative disorder (serum monoclonal protein, abnormal free light chain ratio, or clonal plasma cells in the bone marrow)
 
 ## Guidelines
 
