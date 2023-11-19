@@ -2,6 +2,10 @@
 
 ## Background
 
+Malignant plasma cells secrete M proteins (ie, monoclonal proteins, which are intact or incomplete immunoglobulin molecules that are electrophoretically and immunologically homogeneous)
+In most clonal plasma cell disorders, intact immunoglobulin molecules are secreted as M proteins
+In some patients, heavy chain expression is completely lost and only monoclonal free light chains (often called Bence Jones protein) are secreted [^Elsevier2022]
+
 Myeloma is one of the plasma cell proliferative disorders, which are   
 
 **Multiple Myeloma** is defined as:  
@@ -95,6 +99,17 @@ Myeloma is one of the plasma cell proliferative disorders, which are
 3. Evidence that amyloid is light-chain-related established by direct examination of the amyloid using mass spectrometry-based proteomic analysis or immunoeletronmicroscopy.  
 *AND*  
 4. Evidence of a monoclonal plasma cell proliferative disorder (serum monoclonal protein, abnormal free light chain ratio, or clonal plasma cells in the bone marrow)
+
+### Staging = Revised International Staging System (RISS)
+
+| Stage    | Criteria    | Frequency    | 5-year Survival    |
+|---------------- | :--------------- | -------------- | --------------- |
+| I | Serum albumin >3.5<br>Serum beta-2-microglobulin <3.5<br>No high-risk cytogenetics<br>Normal LDH  | 28% | 82% |
+| II | Neither I or II  | 62%   | 62% |
+| III | Serum beta-2-microglobulin >5.5 AND<br>High-risk cytogenetics OR<br>Raised LDH   | 10% | 40% |  
+
+> High-risk cytogenetics are t(4;14), t(14;16) or del(17p) *= p53*
+
 
 ## Guidelines
 
@@ -308,7 +323,6 @@ Viable tumour usually ABOVE 700 um2/sec UPTO 1400.
 
 --- 
 
-## **Papers**
 
 [^Messiou2019]: Messiou C et al, Guidelines for Acquisition, Interpretation and Reporting of Whole-Body MRI in Myeloma. MY-RADS Radiology 2019; 291:5–13 • https://doi.org/10.1148/radiol.2019181949 •
 
@@ -328,7 +342,7 @@ Viable tumour usually ABOVE 700 um2/sec UPTO 1400.
 
 [^Husband2020]: Vinnicombe S & Sahdev A. Husband & Reznek's Imaging in Oncology 4e. 
 
---- 
+[^Elsevier2022]: Multiple Myeloma. Elsevier Point of Care. 2022. 
 
-## References
+
 
