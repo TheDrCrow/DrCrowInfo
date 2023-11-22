@@ -67,8 +67,32 @@ Adverse prognostic factors
 > NCCN-IPI = Stratifies Age & LDH.  
 > Also Cell of Origin = Germinal centre type or Activated B-cell type.  
 
-#### F-NHL 
+#### F-NHL = FL International Prognostic Index (FLIPI)-1  
+ - \>= 3 nodal groups  
+ - Raised LDH  
+ - Age >60  
+ - Stage III/IV  
+ - Hb < 12g/dl 
 
-#### Mantle Cell Lymphoma
+##### or FLIPI-2  
+ - Longest diameter of single site >6cm  
+ - Raised beta-2-microglobulin.  
+ - Bone Marrow involvement 
+ - Hb <12g/dl  
 
+## Clinical Features 
+
+| Clinical Features    | Hodgkins    | NHL    |
+|---------------- | --------------- | --------------- |
+| Fever, night sweats, weight loss  | 40%    | 20%    |
+| Spread  | Tends to be contiguous    | Multiple remote nodal groups often involved.  |
+| Age  | Uncommon in childhood  | More frequent in 40-70ys    |
+| **Nodal Groups** |   |     |
+| Thoracic  | 75% | 35%  |
+| Para-aortic  | 30% | 50%  |
+| Mesenteric  | 5% | 55% |
+| **Extranodal Disease** |   |     |
+| CNS  | <1% | 2% |
+| GIT | <1% | 10% |
+| GUT | <1% | 10% |
 
