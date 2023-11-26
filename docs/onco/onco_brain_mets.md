@@ -87,11 +87,11 @@ All advanced imaging has inconsistent findings in reviews of literature.
 ## Post-Treatment Change.   
 
 **Pseudo-progression** is a thing post SRS (and other ones as well),  
-6 to 78 weeks Post-Treatment  
+6 to 8 weeks Post-Treatment  
 Seen in UP TO 1/3  
 Better prognosis with 2 months increase in OS    
 
-Signs of Pseudo-progression, include: 
+Signs of Pseudo-progression, include:   
  - Increase size of lesion.  
  - Central decrease T2.   
  - Blurred peripheral enhancement.   

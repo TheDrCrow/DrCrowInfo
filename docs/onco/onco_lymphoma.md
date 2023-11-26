@@ -94,5 +94,12 @@ Adverse prognostic factors
 | **Extranodal Disease** |   |     |
 | CNS  | <1% | 2% |
 | GIT | <1% | 10% |
-| GUT | <1% | 10% |
+| GUT | <1% | 3% |
+| Bone Marrow | 3% | 30% |
+| Bone | <1% | 2% |
+| Lung Parenchyma | 10% | 5% | 
+| | | 
+| Stage at Diagnosis | >80% Stage I-II | >85% Stages III-IV |
+
+
 
