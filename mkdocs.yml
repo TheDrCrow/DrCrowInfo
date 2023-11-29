@@ -100,7 +100,7 @@ nav:
      - 'Rectal MR': 'onco/onco_rectalMR_FF.md' 
      - 'Nodes': 'onco/onco_nodes.md' 
      - 'Brain Mets': 'onco/onco_brain_mets.md' 
-     - 'Lung Mets': 'onco/onco_lung.md' 
+     - 'Lung Mets': 'onco/onco_lung_mets.md' 
      - 'Liver, Spleen, & Adrenal Mets': 'onco/onco_hpb_mets.md' 
      - 'Peritoneal Mets': 'onco/onco_peritoneum.md' 
      - 'Bone Mets': 'onco/onco_bone_mets.md' 
