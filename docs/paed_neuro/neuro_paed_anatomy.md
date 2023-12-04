@@ -163,3 +163,8 @@ Read Normal Myelination Atlas (here)[../papers/Myelination_Paed.pdf]
 > J/C = Juxtacortical. 
 > Myelination correlates with development of function. 
 > Juxtacortical WM in the frontal lobe is still maturing up to 2yrs on T2 and microstructurally to adolescence.
+
+#### Terminal Myelination
+as per Roxana in Grainger and Allison. 
+
+![Normal Myelination](images/rox_normal_myelination.PNG)
