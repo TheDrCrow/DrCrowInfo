@@ -51,18 +51,17 @@ Graf Type | Alpha | Beta | Notes
 
 ### DDH & EDS [^4]
 
-Only Type IV = Vascular and Type VI = Arthrochalasia are associated with hip dislocation in infancy. 
-Classical (Type I), Cardiac valvular (Type III) and hypermobility spectrum etc etc are not associates. 
-
-> Type III = <1 in 1,000,000 Severe progressive AV or MV problems. Pectus and pes issues are common. AR
-> Type IV = 1 in 100,000 to 200,000. Get arterial rupture or dissection, and colon perforation <40y old. AD. 
-> Type VI = 1 in 1,000,000. All get Bilateral CDH. and then more dislocatons. AD.
+Only Type IV = Vascular and Type VI = Arthrochalasia are associated with hip dislocation in infancy.   
+Classical (Type I), Cardiac valvular (Type III) and hypermobility spectrum etc etc are not associates.   
+  
+> Type III = <1 in 1,000,000 Severe progressive AV or MV problems. Pectus and pes issues are common. AR  
+> Type IV = 1 in 100,000 to 200,000. Get arterial rupture or dissection, and colon perforation <40y old. AD.   
+> Type VI = 1 in 1,000,000. All get Bilateral CDH. and then more dislocatons. AD.  
 
 [^4]: Donald Basel. Ehlers-Danlos Syndrome Nelson Textbook of Pediatrics, Chapter 679, 3525-3531.e1
 [^5]: 2017 International Classification of EDS. 
 
 --- 
- 
 ## **Irritable Hip** 
 
 ### Kocher Criteria.[^3]
