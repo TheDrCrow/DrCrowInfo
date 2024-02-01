@@ -49,24 +49,37 @@ Graf Type | Alpha | Beta | Notes
 
 ---
 
+### DDH & EDS [^4] [^5]
+
+Only Type IV = Vascular and Type VI = Arthrochalasia are associated with hip dislocation in infancy.   
+Classical (Type I), Cardiac valvular (Type III) and hypermobility spectrum etc etc are not associates.   
+  
+> Type III = <1 in 1,000,000 Severe progressive AV or MV problems. Pectus and pes issues are common. AR  
+> Type IV = 1 in 100,000 to 200,000. Get arterial rupture or dissection, and colon perforation <40y old. AD.   
+> Type VI = 1 in 1,000,000. All get Bilateral CDH. and then more dislocatons. AD.  
+
+[^4]: Donald Basel. Ehlers-Danlos Syndrome Nelson Textbook of Pediatrics, Chapter 679, 3525-3531.e1
+[^5]: 2017 International Classification of EDS. 
+
+--- 
 ## **Irritable Hip** 
 
 ### Kocher Criteria.[^3]
 
 Criteria are:  
-  1. Non Weight Bearing  
-  2. Temp >38.5   
-  3. ESR > 40 [ or 2006 = CRP>20 ]  
-  4. WCC > 12000  
+1. Non Weight Bearing  
+2. Temp >38.5   
+3. ESR > 40 [ or 2006 = CRP>20 ]  
+4. WCC > 12000  
 > Each criterion counts as 1 point.
 
 
 Scores are:  
-  - 0 = Very low risk. Observation.  
-  - 1 = 3% probability of septic arthritis. Consult.  
-  - 2 = 40% probability of septic arthritis. Aspirate (if effusion)  
-  - 3 = 93% probabiltiy of septic arthritis. Aspirate in Theatre / Washout.    
-  - 4 = 99% probabiltiy of septic arthritis. Aspirate in Theatre / Washout.  
+- 0 = Very low risk. Observation.  
+- 1 = 3% probability of septic arthritis. Consult.  
+- 2 = 40% probability of septic arthritis. Aspirate (if effusion)  
+- 3 = 93% probabiltiy of septic arthritis. Aspirate in Theatre / Washout.    
+- 4 = 99% probabiltiy of septic arthritis. Aspirate in Theatre / Washout.  
 
 [^3]: https://pubmed.ncbi.nlm.nih.gov/10608376/ 
 
