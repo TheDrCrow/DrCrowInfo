@@ -49,7 +49,7 @@ Graf Type | Alpha | Beta | Notes
 
 ---
 
-### DDH & EDS [^4]
+### DDH & EDS [^4] [^5]
 
 Only Type IV = Vascular and Type VI = Arthrochalasia are associated with hip dislocation in infancy.   
 Classical (Type I), Cardiac valvular (Type III) and hypermobility spectrum etc etc are not associates.   
