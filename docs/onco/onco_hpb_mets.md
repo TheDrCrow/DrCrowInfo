@@ -174,4 +174,29 @@ Also, HISTOGRAM ANALYSIS TECHNIQUE
 2) ENHANCEMENT CHARACTERISTICS   
 *adenomas drain faster than mets*  
 
+$$ 
+Absolute Percent Washout=\frac{e-d}{e-u}x100
+$$
+
+> e = attenuation at 60s post iv contrast  
+> d = attenuation at 15mins delay.   
+> u = attenuation on non-contrast.   
+Absolute 60% washout at 15% = 88/96 for adenoma. 
+
+$$
+Relative Percent Washout=\frac{e-d}{e}x100
+$$
+Relative >40% is 96/100 for adenoma!
+
+**MR Imaging** 
+
+Exploit presence of fat.
+
+$$
+Signal intensity index = \frac{SI in phase - SI out of phase}{SI in phase}x100 
+$$
+
+Adenomas tend to be > 5%, whilst mets tend to be <5%. 
+Also compare to the change in signal from the spleen. 
+
 
