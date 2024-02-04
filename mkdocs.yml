@@ -69,6 +69,7 @@ nav:
      - 'Peripheral Angio': 'chest/chest_peripheralAngio_FF.md'
      - 'Pleural Effusion': 'chest/chest_pleural_effusion.md'
    - 'Abdomen':
+     - 'Peritoneum': 'abdominal/peritoneum.md'
      - 'HCC': 'abdominal/git_HCC.md'
      - 'Colitis': 'abdominal/git_colitis.md'
      - 'Inguinal Hernia': 'abdominal/git_inguinalHernias.md'
@@ -107,6 +108,7 @@ nav:
      - 'MSCC': 'onco/onco_mscc.md' 
      - 'Neutropenic Sepsis': 'onco/onco_neutropenic_sepsis.md' 
      - 'Paraneoplastic Syndromes': 'onco/onco_paraneoplastic.md' 
+     - 'Neurotoxicity': 'onco/onco_neurotoxicity.md'
      - 'Risk of Malignancy': 'onco/Risk_of_malignancy.md' 
    - 'General': 
      - 'Confusion': 'general/general_confusion_ix.md'
