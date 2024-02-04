@@ -7,4 +7,4 @@
 
 ## Neurological Paraneoplastic Syndromes 
 
-![Neuro paraneoplastic syndromes](/docs/onco/images/paraneoplastic_syndromes.png) 
+![Neuro paraneoplastic syndromes](images/paraneoplastic_syndromes.png) 

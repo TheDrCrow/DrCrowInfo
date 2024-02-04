@@ -2,4 +2,4 @@
 
 Again, mostly anatomy. 
 
-![Peritoneum and spaces and ligaments](docs/abdominal/images/peritoneum/png) 
+![Peritoneum and spaces and ligaments](images/peritoneum.png) 
