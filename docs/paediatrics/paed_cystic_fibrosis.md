@@ -143,7 +143,7 @@ Intussusception | | |
 50% of px >18yo 
 93% Had Pancreatic Exocrine Insufficiency 
 
-![US Findings](../paed/images/CF_US_findings.png)
+![US Findings](images/CF_US_findings.png)
 
 
 --- 
