@@ -45,6 +45,19 @@ Much more common but often not assoc'd with underlying tumours.
 
 | Name    | Path    | Radiology    | Other    |
 |---------------- | --------------- | --------------- | --------------- |
-| Limbic Encephalitis (LE)   | Both Onconeuronal Ab such as Anti-Hu in SCLC.<br>And, Neuronal cell surface Ab.    | MRI +ve in 50%.<br>Inc T2/FLAIR <br>Gd 0/+ <br>ADC 0/+ |   |
+| Limbic Encephalitis (LE)   | Both **Onconeuronal** Ab such as Anti-Hu in SCLC.<br>And, **Neuronal cell surface** Ab.    | MRI +ve in 50%.<br>T2/FLAIR ++<br>Gd 0/+ <br>ADC 0/+ | NH: Can lead to mesotemporal sclerosis. |
+| Paraneoplastic Cerebellar Degeneration (PCD)| Onconeuronal most common. Anti-Yu and Anti-Hu common.<br> CF: Rapid onset ataxia, dysarthria, nystagmus.| MRI usu Normal<br>CSF usually positive and inflam = lymphatic pleocytosis +/- oligoconal bands. | NH: Stabilises but with poor function. |
+| Anti-NMDA Receptor Encephalitis | Young Women. 80% F. 95% <45yo<br>CF: Prodrome of Fever, Headache, N/V, then Psych/Behaviour abn. 70% = STM defects. 70% Seizures.<br>Path: Ovarian Teratoma (94% of 12-45yoF)<br>Only 6% of M have underlying malignancy. | MRI = 50% Sens.<br>T2/FLAIR ++ in hippocampi, cerebellum, cerebral cortex, insula, BGs, brain stem & spinal cord occ.<br>But, usually mild/transient.| |
+
+### Clinical Notes  
+
+Screening for tumours **Follow Guidelines**
+Sometimes small but most manifest in <1y 
+Onco F/U 3-6 monthly for 5y 
+
+**Treatment**   
+1) Onconeuronal Ab = Rx tumour = stabilise symptoms and stop progression (but with poor response from Immuno)  
+2) Neuronal Cell Surface Ab = Respond well to tumour removal and immunosuppression.   
+
 
 
