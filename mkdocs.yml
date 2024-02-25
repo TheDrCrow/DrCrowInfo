@@ -108,7 +108,7 @@ nav:
      - 'MSCC': 'onco/onco_mscc.md' 
      - 'Neutropenic Sepsis': 'onco/onco_neutropenic_sepsis.md' 
      - 'Paraneoplastic Syndromes': 'onco/onco_paraneoplastic.md' 
-     - 'Neurotoxicity': 'onco/onco_neurotoxicity.md'
+     - 'Toxicity': 'onco/onco_toxicity.md'
      - 'Risk of Malignancy': 'onco/Risk_of_malignancy.md' 
    - 'General': 
      - 'Confusion': 'general/general_confusion_ix.md'
