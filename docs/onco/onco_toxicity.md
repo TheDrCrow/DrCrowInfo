@@ -26,3 +26,13 @@
 ---- 
 
 ## Chest Toxicities 
+
+### Radiation
+
+| Name    | Path    | Radiology    | Notes    |
+|---------------- | --------------- | --------------- | --------------- |
+| **Radiation Pneumonitis** | **Histo:** No pathognomic features and is essentially similar to DAD. ~ organising alveolar disease wit fibroblast proliferation and fibrosis.  | **Rad:** Usually sharply marginated ground glass to consolidation then fibrosis.<br>***CT:*** 4 patterns generally following increasing dose: Homogeneous GG -> Patchy Consolidation -> Discrete consolidation -> Solid consolidation with TB. GG can be seen by 2-3 weeks on CT.| **CF:** Most asymptomatic (20% of total only have signs on XR) but cough, fever and SoB. Presents at 6-8 weeks post RT and peaks at 3 - 4/12.  |
+| **Radiation Fibrosis** | Path: Seen in essentially all therapeutic dose patients<br>Becomes clear from 3/12 and increases to 12/12 | **Rad:** Defined by the bounds of the field (mostly)<br>Strand-like with TB and volume loss.<br>+/- Mild pleural thickening.<br>***Conformal 3D RT:***Produces 1 of 3 patterns<br>1. Mass-like appearances surrounding tumour.<br>2.Modified Conventional post RT changes but sometimes with peripheral sparing.<br>3.Scar-like <= 1cm fibrosis as a thin-band. | **Other:** Can also see<br>- Hyperlucency of aerated lung<br>- Spontaneous pneumothorax<br>- Calcification in LN and thymic cysts | 
+| **Radiation & Chemo Combination**  | ***Radiation Sensitisers:*** Produce earlier and generally worse disease and include Actinomycin D, Adriamycin, Bleomycin, Cyclophosphamide, MitoC and Vincristine.<br>***Parenchymal Agents*** Some chemo agents that produce lung disease have the disease worsened by RT. Includes Bleomycin, Busulphan and MTX  | **Rad:** Variable but includes alveolar infiltrates and reticulonodular patterns often leading to fibrosis. | | 
+
+
