@@ -85,6 +85,7 @@ nav:
      - 'Ankle': 'msk/msk_ankle.md'
      - 'Radial Neck': 'msk/msk_fracture_radialneck.md'
      - 'Knee': 'msk/msk_knee_ff.md'
+     - 'Patella Maltracking': 'msk/msk_knee_patella_maltracking.md'
      - 'Knee PostOp': 'msk/msk_knee_postop.md'
      - 'Shoulder': 'msk/msk_shoulder.md'
      - 'CES': 'msk/msk_ces.md'
