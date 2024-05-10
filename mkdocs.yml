@@ -37,6 +37,7 @@ nav:
      - 'Precocious Puberty': 'paediatrics/paed_endo_precociousPuberty.md'
      - 'Gynae': 'paediatrics/paed_gynae.md'
      - 'Urology': 'paediatrics/paed_uro.md'
+     - 'OCD' : 'paediatrics/paed_ortho_ocd.md'
      - 'Hips': 'paediatrics/paed_ortho_hips.md'
      - 'Feet': 'paediatrics/paed_ortho_feet.md'
    - 'Paediatric Neuroradiology': 
@@ -84,6 +85,7 @@ nav:
      - 'Ankle': 'msk/msk_ankle.md'
      - 'Radial Neck': 'msk/msk_fracture_radialneck.md'
      - 'Knee': 'msk/msk_knee_ff.md'
+     - 'Patella Maltracking': 'msk/msk_knee_patella_maltracking.md'
      - 'Knee PostOp': 'msk/msk_knee_postop.md'
      - 'Shoulder': 'msk/msk_shoulder.md'
      - 'CES': 'msk/msk_ces.md'
@@ -108,7 +110,7 @@ nav:
      - 'MSCC': 'onco/onco_mscc.md' 
      - 'Neutropenic Sepsis': 'onco/onco_neutropenic_sepsis.md' 
      - 'Paraneoplastic Syndromes': 'onco/onco_paraneoplastic.md' 
-     - 'Neurotoxicity': 'onco/onco_neurotoxicity.md'
+     - 'Toxicity': 'onco/onco_toxicity.md'
      - 'Risk of Malignancy': 'onco/Risk_of_malignancy.md' 
    - 'General': 
      - 'Confusion': 'general/general_confusion_ix.md'
