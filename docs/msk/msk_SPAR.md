@@ -185,6 +185,15 @@ Look for ***Enthesitis***
 Predicts predicts SIitis on follow up MRI.  
 Look at symphysis pubis, rami, iliac crests, ischia, anterior superior and inferior iliac spines, vertebral posterior elements and any other muscle insertions. 
 
+**Synovitis** in large joints is a pain in the arse in children.  
+Limited studies but normal kids have synovial enhancement in knees at least and tiny/small effusions. [Hemke2018]
+JIA seems to be associated with thickening >2mm and with effusions >3mm at least.  
+So Gd is useful really at seeing the synovium and measuring it accurately but clear that the degree of enhancement is not that helpful 
+
+[Hemke2018]:Hemke R et al. Contrast-enhanced MRI findings of the knee in healthy children; establishing normal values Eur Radiol (2018) 28:1167–1174 DOI 10.1007/s00330-017-5067-6
+
+
+
 #### Structural lesions  
 
 Seen generally later, on semicoronal T1 sequences.  
