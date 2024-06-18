@@ -136,8 +136,7 @@ But, they still concentrate on:
 
 ## Paediatric Considerations[^Herregods2023]
 
-[^Herregods2023]: Herregods N, Anisau A et al. MRI in Paediatric sacroilitis, what radiologists should know. Pediatric Radiology
-https://doi.org/10.1007/s00247-023-05602-z 
+[^Herregods2023]: Herregods N, Anisau A et al. MRI in Paediatric sacroilitis, what radiologists should know. Pediatric Radiology 2023 https://doi.org/10.1007/s00247-023-05602-z 
 
 **Juvenile spondyloarthropathy** = group of related inflammatory disorders, onset in childhood of adolescence.  
 Presentation is more with peripheral arthritis and enthesitis of pelvis and leg in early disease and generally SIJitis later in the course.  
