@@ -119,7 +119,7 @@ Hepatomegaly | Mid-clavicular line CC dimension | Adults: >16cm is enlarged.  |
 Liver Steatosis | Increased echogenicity compared to renal parenchyma et al. | | 
 Parenchymal Coarseness |  |  | 
 Nodular Border | | | 
-Periportal Fibrosis |  | Refers to Willams' work in CXH |  
+Periportal Fibrosis |  | Refers to Willams' work in CXH. "*thickened hyperechoic periportal tissue on ultrasound (>2 mm thickness)*" |  
 *TE* | Abnormal > 7.1kPa |  |
 ||**PORTAL HYPERTENSION** | | 
 PV Flow | Abnormal <15cm/s  | |  
