@@ -113,6 +113,7 @@ nav:
      - 'Toxicity': 'onco/onco_toxicity.md'
      - 'Risk of Malignancy': 'onco/Risk_of_malignancy.md' 
    - 'General': 
+     - 'A-Z': 'general/general_AZ_rareStuff.md'
      - 'Confusion': 'general/general_confusion_ix.md'
      - 'Malignancy': 'general/general_malignancy.md'
      - 'Nightsweats': 'general/general_nightsweats.md'
