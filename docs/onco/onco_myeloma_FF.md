@@ -190,6 +190,9 @@ detected by PET/CT, yearly follow-up is recommended because these patients have 
 
 ![Myeloma Relapse](images/mm_relapse.png)
 
+"_Assessment of treatment response, monitoring during follow up and detection of disease relapse in myeloma patients is predominantly based on paraprotein and serum free light chain measurement. Imaging is important for reassessing bone disease at suspected relapse in patients with new bony
+symptoms and in assessing disease in patients with nonsecretory, oligosecretory or extramedullary disease_" [^BSH2017]
+
 ### Reporting Structure Recommendations. 
 ### First Diagnosis 
 
@@ -326,7 +329,7 @@ Viable tumour usually ABOVE 700 um2/sec UPTO 1400.
 
 [^Messiou2019]: Messiou C et al, Guidelines for Acquisition, Interpretation and Reporting of Whole-Body MRI in Myeloma. MY-RADS Radiology 2019; 291:5–13 • https://doi.org/10.1148/radiol.2019181949 •
 
-[^BAH2016]: (https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/bjh.14827)  
+[^BSH2017]: (https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/bjh.14827)  
 
 [^NICE2016]: NICE Guidelines on the Management of Myeloma. https://www.nice.org.uk/guidance/ng35/evidence/full-guideline-pdf-2306487277
 
