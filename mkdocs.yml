@@ -56,6 +56,7 @@ nav:
      - 'HI & AntiCoag': 'neuro/neuro_headinjury&AntiCoag.md'
      - 'SAH': 'neuro/neuro_SAH_FF.md'
    - 'Head & Neck':
+     - 'Papilloedema': 'head_neck/h&n_papilloedema.md'
      - 'Facial Trauma': 'head_neck/h&n_facial_trauma.md'
      - 'FESS': 'head_neck/h&n_FESS_FF.md'
      - 'FESS Template': 'head_neck/h&n_FESS_Report_Template.md'
